@@ -1,0 +1,2204 @@
+Resturant,Rating,Review,Cuisine,price
+ Galloway’s Sandwich Shop,4.5,18,American,under $10
+ The Grub House,4.5,19,American,under $10
+ P Terry’s Burger Stand,3.5,19,American,under $10
+ Burger King,2,19,American,under $10
+ Bucket’s Deli and Sports Bar,3.5,20,American,under $10
+ Jack in the Box,1.5,21,American,under $10
+ Jack in the Box,2,22,American,under $10
+ Burger King,2.5,23,American,under $10
+ Jack in the Box,2,24,American,under $10
+ Dirty Glove Midwest BBQ,4.5,24,American,under $10
+ William B Travis Building Cafeteria,3,24,American,under $10
+ Dairy Queen,3.5,25,American,under $10
+ Short Stop,3.5,25,American,under $10
+ Phil’s Philly Grill,3,25,American,under $10
+ Monster Bite World,4.5,26,American,under $10
+ Jack in the Box,2,27,American,under $10
+ Messhall Cafe,4,28,American,under $10
+ Wendy’s,2.5,28,American,under $10
+ Jack in the Box,2,28,American,under $10
+ The Story of Texas Cafe,3.5,29,American,under $10
+ Dairy Queen,3.5,31,American,under $10
+ Wendy’s,2,31,American,under $10
+ Sonic Drive-In,1.5,31,American,under $10
+ Tangent Cafe,4,32,American,under $10
+ Burger King,1.5,32,American,under $10
+ Arby’s,3,32,American,under $10
+ Simon’s Burger,4.5,33,American,under $10
+ Wendy’s,2.5,33,American,under $10
+ Wendy’s,2,33,American,under $10
+ The  on th,2.5,34,American,under $10
+ Burger King,1.5,34,American,under $10
+ Jack in the Box,2.5,34,American,under $10
+ Texas Bar & Grill,3.5,36,American,under $10
+ Texas Bar & Grill,3.5,36,American,under $10
+ Wendy’s,2.5,37,American,under $10
+ Capitol Grill,3.5,38,American,under $10
+ Stardust Club,3.5,38,American,under $10
+ Burger King,2,38,American,under $10
+ Wendy’s,1.5,39,American,under $10
+ P Terry’s Burger Stand,3.5,40,American,under $10
+ Sonic Drive-In,3,42,American,under $10
+ Lone Star Kolaches,3.5,42,American,under $10
+ Clicks Billiards,3,43,American,under $10
+ Burnside’s Tavern,3.5,43,American,under $10
+ Sonic Drive-In,2,43,American,under $10
+ Wendy’s,2,44,American,under $10
+ Wendy’s,2,44,American,under $10
+ Newk’s Eatery,3.5,45,American,under $10
+ Jack in the Box,2,49,American,under $10
+ Wendy’s,2,49,American,under $10
+ Wendy’s,2.5,50,American,under $10
+ Mighty Fine Burgers,3.5,52,American,under $10
+ Little Ola’s Biscuits,3.5,52,American,under $10
+ Wendy’s,1.5,52,American,under $10
+ Wendy’s,1.5,52,American,under $10
+ Pour Choices,4,53,American,under $10
+ Short Stop,3,53,American,under $10
+ Taquerias Arandinas,3.5,54,American,under $10
+ Burger King,2,55,American,under $10
+ Downtown Burgers,4,57,American,under $10
+ Wendy’s,2,57,American,under $10
+ Wendy’s,2,58,American,under $10
+ Longhorn Chicken,3.5,61,American,under $10
+ Friends and Allies Brewing,4,62,American,under $10
+ Yalla Burgers & Wings halal,3.5,62,American,under $10
+ Friends and Allies Brewing,4,62,American,under $10
+ Shipleys Do-nuts,3.5,62,American,under $10
+ Sonic Drive-In,2,62,American,under $10
+ Word of Mouth Bakery,4.5,64,American,under $10
+ The Cavalier ATX,4,67,American,under $10
+ P Terry’s Burger Stand,4,67,American,under $10
+ P Terry’s Burger Stand,4,67,American,under $10
+ Rusty Cannon Pub,3.5,69,American,under $10
+ Sonic Drive-In,2,70,American,under $10
+ Central Donut,4.5,70,American,under $10
+ Sonic Drive-In,2,70,American,under $10
+ McDonald’s,2,71,American,under $10
+ McDonald’s,2,71,American,under $10
+ Hi Sign Brewing - Temp CLOSED,4.5,72,American,under $10
+ Carousel Lounge,4,77,American,under $10
+ Kolache Factory,3.5,77,American,under $10
+ Sonic Drive-In,2,78,American,under $10
+ Little Woodrow’s - Burnet,3,79,American,under $10
+ Try Hard Coffee Roasters,5,80,American,under $10
+ McDonald’s,1.5,80,American,under $10
+ Hill-Bert’s Burgers,3.5,81,American,under $10
+ Sonic Drive-In,2,84,American,under $10
+ The Canary Roost,3,86,American,under $10
+ Dairy Queen,4,89,American,under $10
+ Waffle House,2.5,90,American,under $10
+ The Cloak Room,3.5,91,American,under $10
+ IHOP,2.5,92,American,under $10
+ Deep Eddy Cabaret,4.5,95,American,under $10
+ P Terry’s Burger Stand,3.5,98,American,under $10
+ Opera Cafe & Coffeehouse,4,98,American,under $10
+ The Iron Bear,4,100,American,under $10
+ Whataburger,3,101,American,under $10
+ IHOP,2,102,American,under $10
+ IHOP,2,102,American,under $10
+ Denny’s,3.5,103,American,under $10
+ Tacodeli,4,104,American,under $10
+ P Terry’s Burger Stand,3.5,105,American,under $10
+ Nickel City,4,106,American,under $10
+ Wholy Bagel,4,106,American,under $10
+ Denny’s,2.5,108,American,under $10
+ Dairy Queen,4,108,American,under $10
+ Whataburger,2,109,American,under $10
+ Tacodeli,3,110,American,under $10
+ P Terry’s Burger Stand,3.5,112,American,under $10
+ Independence Brewing,4,117,American,under $10
+ Posse East,4,120,American,under $10
+ Cain and Abel’s,3,120,American,under $10
+ N Salad Bar and Grill,4.5,123,American,under $10
+ Boston Market,2.5,123,American,under $10
+ Drinks Lounge,4,124,American,under $10
+ Austin Rotisserie,4.5,125,American,under $10
+ Plow Burger,4.5,127,American,under $10
+ P Terry’s Burger Stand,3,127,American,under $10
+ Live Oak Brewing Company,4.5,128,American,under $10
+ Barton Springs Saloon,3.5,129,American,under $10
+ P Terry’s Burger Stand,4,129,American,under $10
+ Denny’s,3,131,American,under $10
+ Denny’s,3,131,American,under $10
+ In-N-Out Burger,3.5,131,American,under $10
+ Riata Bar and Grill,3.5,131,American,under $10
+ Coffee Shark,4,132,American,under $10
+ Chief’s BBQ,3.5,133,American,under $10
+ Boulevard Grill and Sports Bar,3.5,134,American,under $10
+ Bella Donna Subs,4,136,American,under $10
+ Sandeez Hamburger Hut,3.5,137,American,under $10
+ Culver’s,3.5,137,American,under $10
+ Taquerias Arandinas,4,139,American,under $10
+ IHOP,2,143,American,under $10
+ Whataburger,2.5,144,American,under $10
+ Dan’s Hamburgers - Austin,4,146,American,under $10
+ BB Rover’s Cafe & Pub,3.5,149,American,under $10
+ Waffle House,2.5,151,American,under $10
+ IHOP,2.5,152,American,under $10
+ P Terry’s Burger Stand,4,153,American,under $10
+ Country Boyz Fixins,4.5,154,American,under $10
+ P Terry’s Burger Stand,3.5,156,American,under $10
+ Jim’s Restaurants,3.5,163,American,under $10
+ Moonies Burger House at Gracy Farms,3.5,173,American,under $10
+ Taquerias Arandinas,3.5,174,American,under $10
+ Taquerias Arandinas,3.5,174,American,under $10
+ Red River Cafe,3.5,175,American,under $10
+ IHOP,2,176,American,under $10
+ Violet Crown Social Club,4.5,179,American,under $10
+ Nau’s Enfield Drug,3.5,181,American,under $10
+ Whataburger,2.5,188,American,under $10
+ Bennu Coffee,4,189,American,under $10
+ Stinson’s,4,194,American,under $10
+ Sorrento’s Drive Thru Coffee,4.5,194,American,under $10
+ Rosie’s Tamale House,3.5,202,American,under $10
+ Skylark Lounge,4.5,204,American,under $10
+ Burger Bar,3.5,204,American,under $10
+ IHOP,2,207,American,under $10
+ Jim’s Restaurants,4,214,American,under $10
+ Jim’s Restaurants,4,217,American,under $10
+ Culver’s,4,217,American,under $10
+ The Vegan Yacht,4.5,221,American,under $10
+ Hat Creek Burgers Westlake,3.5,224,American,under $10
+ Wally’s Burger Express,3.5,225,American,under $10
+ P Terry’s Burger Stand,3.5,225,American,under $10
+ Shakespeare’s Pub,3,226,American,under $10
+ Five Guys,3,226,American,under $10
+ In-N-Out Burger,4,231,American,under $10
+ Zuzu Handmade Mexican Food,3.5,237,American,under $10
+ Zuzu Handmade Mexican Food,3.5,237,American,under $10
+ Knomad Bar,4,239,American,under $10
+ Halcyon,3.5,243,American,under $10
+ S-H Donuts,4.5,244,American,under $10
+ La Patisserie by Oven-Fresh Delights,4,244,American,under $10
+ Phil’s Icehouse,4,249,American,under $10
+ Cow Bells,4.5,253,American,under $10
+ Yummi Tacos & More,4,253,American,under $10
+ Pflugerville Taco House,4.5,257,American,under $10
+ Phil’s Icehouse,4,258,American,under $10
+ Biscuits  Groovy - South,4.5,259,American,under $10
+ Waffle House,3,260,American,under $10
+ El Primo,4.5,262,American,under $10
+ The Liberty,4,270,American,under $10
+ Zilker Brewing Company and Taproom,4.5,273,American,under $10
+ Pecan St Station Deli & Grill,4,276,American,under $10
+ Batch - Craft Beer and Kolaches,4.5,277,American,under $10
+ Ego’s,3,280,American,under $10
+ Chinos Fusion Hacienda,4.5,283,American,under $10
+ Crown and Anchor Pub,4,293,American,under $10
+ Buddy’s Burger,4.5,294,American,under $10
+ Workhorse Bar,4,298,American,under $10
+ Dave & Buster’s,3,299,American,under $10
+ Austin Diner,3,302,American,under $10
+ Cuvée Coffee Bar,4,302,American,under $10
+ Bender Bar & Grill,4,310,American,under $10
+ Texas Honey Ham Company,4.5,317,American,under $10
+ Dirty Martin’s Place,3.5,320,American,under $10
+ Con Madre Kitchen,4.5,321,American,under $10
+ Gelateria Gemelli,4.5,340,American,under $10
+ Lebowski’s Grill,4.5,355,American,under $10
+ Hat Creek Burgers Burnet Road,3.5,362,American,under $10
+ Mary’s Cafe,4.5,370,American,under $10
+ Flyrite,3.5,372,American,under $10
+ The White Horse,3.5,374,American,under $10
+ Stars Cafe,3,383,American,under $10
+ La Cocina de Consuelo,4,387,American,under $10
+ Patika,4.5,388,American,under $10
+ Dan’s Hamburgers - Austin,4,389,American,under $10
+ Sa-Tén - Canopy,4.5,390,American,under $10
+ Joe’s Bakery & Coffee Shop,4,390,American,under $10
+ The Omelettry,3.5,396,American,under $10
+ Onetaco - an Urban Taqueria,4,407,American,under $10
+ Violet Crown Cinema,4,410,American,under $10
+ Yellow Jacket Social Club,4,414,American,under $10
+ Nervous Charlie’s,4.5,419,American,under $10
+ Mighty Fine Burgers,4,421,American,under $10
+ Mighty Fine Burgers,4,421,American,under $10
+ Granny’s Tacos,5,436,American,under $10
+ Dan’s Hamburgers,4,437,American,under $10
+ Café Crème,4.5,438,American,under $10
+ Moonie’s Burger House - Anderson Mill,3.5,438,American,under $10
+ Sandy’s Hamburgers,3.5,446,American,under $10
+ Kick Butt Coffee,4,462,American,under $10
+ P Terry’s Burger Stand,3.5,468,American,under $10
+ The Mighty Cone,3.5,495,American,under $10
+ Lazarus Brewing,4.5,498,American,under $10
+ Lazarus Brewing,4.5,498,American,under $10
+ Jo’s Coffee Downtown,3.5,551,American,under $10
+ Phil’s Icehouse,4,564,American,under $10
+ Taco Xpress,4,616,American,under $10
+ Wholly Cow,4,634,American,under $10
+ In-N-Out Burger,3.5,652,American,under $10
+ P Terry’s Burger Stand,3.5,665,American,under $10
+ Shake Shack,3.5,669,American,under $10
+ Top Notch,4,750,American,under $10
+ Wholy Bagel,4,811,American,under $10
+ Tyson’s Tacos,4,895,American,under $10
+ The Jackalope,4,984,American,under $10
+ Tacodeli,4,1018,American,under $10
+ Tacodeli,4.5,1073,American,under $10
+ Cafe Java - Austin,4.5,1257,American,under $10
+ Bar  Mezcalerita,4.5,64,American,$11-$30
+ High ,3.5,65,American,$11-$30
+ Anchor Bar,4.5,66,American,$11-$30
+ Buck Wild,4,69,American,$11-$30
+ Sixth and Waller,4,70,American,$11-$30
+ Sixth and Waller,4,70,American,$11-$30
+ Happy Chicks,4,74,American,$11-$30
+ Bazille,4,79,American,$11-$30
+ Punch Bowl Social Austin,4,80,American,$11-$30
+ Provision - Temp CLOSED,4,83,American,$11-$30
+ Spread & Co,4.5,90,American,$11-$30
+ Paperboy,4.5,98,American,$11-$30
+ Oddwood Ales,4.5,102,American,$11-$30
+ RIO Night Club  Day Club,2,108,American,$11-$30
+ Nosh & Bevvy,4,109,American,$11-$30
+ Knotty Deck & Bar,4,109,American,$11-$30
+ REVUE,4,109,American,$11-$30
+ Cafe Bistro,4,110,American,$11-$30
+ Woody’s Tavern & Grill,3,113,American,$11-$30
+ The Wheel,4.5,113,American,$11-$30
+ The Wheel,4.5,113,American,$11-$30
+ Phoebe’s Diner,4.5,118,American,$11-$30
+ Next Level Burger Austin,4,118,American,$11-$30
+ Kinda Tropical,4,120,American,$11-$30
+ Golden Tiger,4.5,121,American,$11-$30
+ Jasmine’s Restaurant,4.5,125,American,$11-$30
+ Cheer Up Charlies,4,125,American,$11-$30
+ De Nada Cantina,4.5,126,American,$11-$30
+  Cheesesteak,4,127,American,$11-$30
+ Pool Burger,3.5,130,American,$11-$30
+ Oilcan Harry’s,3.5,139,American,$11-$30
+ Island Fork,4.5,140,American,$11-$30
+ Galaxy Cafe,4,142,American,$11-$30
+ th Street Cafe,3.5,144,American,$11-$30
+ th Street Cafe,3.5,144,American,$11-$30
+ Carpenters Hall,4,147,American,$11-$30
+ Tumble ,4,152,American,$11-$30
+ Lou’s,4,153,American,$11-$30
+ Oakmont Food,4,161,American,$11-$30
+ School House Pub,4,165,American,$11-$30
+ Little Woodrow’s - Austin,3.5,168,American,$11-$30
+ Cannon  Belle,3.5,171,American,$11-$30
+ The Git Out,4.5,173,American,$11-$30
+ Rain on th,3.5,176,American,$11-$30
+ Rain on th,3.5,176,American,$11-$30
+ Oz Tap House,4,179,American,$11-$30
+ Revelry on the Boulevard,4.5,180,American,$11-$30
+ St Elmo Brewing Company,4.5,182,American,$11-$30
+ The Ranch,2.5,183,American,$11-$30
+ Pluckers Wing Bar - Oak Hill,2.5,185,American,$11-$30
+ Central Machine Works Brewery and Beer Hall,4,187,American,$11-$30
+ Aussie’s Grill & Beach Bar,3,187,American,$11-$30
+ Plaza Colombian Coffee,4.5,188,American,$11-$30
+ Two Hands,4,192,American,$11-$30
+ Two Hands,4,192,American,$11-$30
+ Donn’s BBQ,3.5,192,American,$11-$30
+ Shiner’s Saloon,4,192,American,$11-$30
+ District Kitchen - Anderson Lane,4.5,195,American,$11-$30
+ Cenote,4,198,American,$11-$30
+ The Dogwood,3,203,American,$11-$30
+ Lil’Doddy Burger Lab,3.5,205,American,$11-$30
+ The Tigress Pub,4,205,American,$11-$30
+ Wilder Wood Restaurant & Bar,4,207,American,$11-$30
+ Way South Philly Deli,4.5,208,American,$11-$30
+ Half Step,4,212,American,$11-$30
+ Tillery Kitchen and Bar,4,219,American,$11-$30
+ Joann’s Fine Foods,4,226,American,$11-$30
+ Cafe ,3.5,229,American,$11-$30
+" Snooze, an AM Eatery E Austin",4,236,American,$11-$30
+ Kerbey Lane Cafe - Mueller,3,238,American,$11-$30
+ The Brewtorium Brewery & Kitchen,4,242,American,$11-$30
+ The Brewtorium Brewery & Kitchen,4,242,American,$11-$30
+ Hi Hat Public House - Temp CLOSED,4.5,245,American,$11-$30
+ Hi Hat Public House - Temp CLOSED,4.5,245,American,$11-$30
+ Mandala Kitchen & Bar,4.5,249,American,$11-$30
+ Mandala Kitchen & Bar,4.5,249,American,$11-$30
+ Revelry Kitchen  Bar,4,255,American,$11-$30
+ Aviary Wine & Kitchen,4.5,264,American,$11-$30
+ Clive Bar,4,266,American,$11-$30
+ Cheddar’s Scratch Kitchen,2.5,271,American,$11-$30
+ Happy Chicks,4,272,American,$11-$30
+ Mour Cafe,4,272,American,$11-$30
+ Nightcap,4,273,American,$11-$30
+ Cheddar’s Scratch Kitchen,3,277,American,$11-$30
+ China Family Restaurant at Highland,4,282,American,$11-$30
+ Another Broken Egg Cafe,4.5,283,American,$11-$30
+ Second Bar  Kitchen - Domain Northside,4,285,American,$11-$30
+ It’s Italian Cucina,4,289,American,$11-$30
+ Salt Traders Zilker,4.5,293,American,$11-$30
+ Mister Tramps,4,296,American,$11-$30
+ Austin Beerworks,4.5,298,American,$11-$30
+ Intero Restaurant,4.5,299,American,$11-$30
+ Shangri-La,4,302,American,$11-$30
+ Cafe Blue - Downtown,3.5,302,American,$11-$30
+ Austin Daily Press,4.5,305,American,$11-$30
+ Hopdoddy Burger Bar,3.5,310,American,$11-$30
+ Mandola’s Italian,4,316,American,$11-$30
+ Bar Peached,4.5,321,American,$11-$30
+ Waterloo Ice House Southpark Meadows,3.5,321,American,$11-$30
+ Chisos Grill,4,323,American,$11-$30
+ Flower Child,4,331,American,$11-$30
+ Drink Well,4,332,American,$11-$30
+ Jack Allen’s Kitchen Anderson Lane,4.5,335,American,$11-$30
+ Seoulju Korean Kitchen & Bar,4.5,344,American,$11-$30
+ The Grove Wine Bar & Kitchen,4,344,American,$11-$30
+ Ski Shores Cafe,3,349,American,$11-$30
+ Cover ,4,350,American,$11-$30
+ Josephine House,3.5,352,American,$11-$30
+ All Star Burger,4,356,American,$11-$30
+ All Star Burger,4,356,American,$11-$30
+ Luke’s Inside Out,4.5,357,American,$11-$30
+ Slake Cafe,4,357,American,$11-$30
+ Sundancer Grill,4,359,American,$11-$30
+ Fresh Heim,4.5,359,American,$11-$30
+ Continental Club,4,360,American,$11-$30
+ Satellite,3.5,362,American,$11-$30
+ Austin Terrier,4,370,American,$11-$30
+ Galaxy Cafe,3.5,373,American,$11-$30
+ June’s,4,375,American,$11-$30
+ Doc’s Backyard Grill,3,375,American,$11-$30
+ Billy’s on Burnet,4,380,American,$11-$30
+ Yard Bar,4,390,American,$11-$30
+ The Little Darlin’,4,395,American,$11-$30
+ Oasis Texas Brewing Company,4,398,American,$11-$30
+ Pour House Pints And Pies,4,399,American,$11-$30
+ TLC Austin,4,400,American,$11-$30
+ EastSide Tavern,3.5,401,American,$11-$30
+ Old Thousand,4,402,American,$11-$30
+ The Driskill Bar,4,406,American,$11-$30
+ Shoal Creek Saloon,3.5,411,American,$11-$30
+ Galaxy Cafe,4,415,American,$11-$30
+ Gusto Italian Kitchen & Wine Bar,4,423,American,$11-$30
+ Counter Cafe East,4,434,American,$11-$30
+ Anthem,4.5,436,American,$11-$30
+ Colleen’s Kitchen,4,440,American,$11-$30
+ Cherry Creek Catfish,4,447,American,$11-$30
+ Cherry Creek Catfish,4,447,American,$11-$30
+ Milano Cafe,4,447,American,$11-$30
+ Pluckers Wing Bar - Rio Grande,3.5,451,American,$11-$30
+ Texas Roadhouse,4,453,American,$11-$30
+ Hyde Park Bar & Grill WestGate,3,461,American,$11-$30
+ Midnight Cowboy,4,473,American,$11-$30
+ TRACE Restaurant,3.5,475,American,$11-$30
+ Oasthouse Kitchen  Bar,4,482,American,$11-$30
+ Firehouse Lounge,4,485,American,$11-$30
+ Honest Mary’s,4.5,494,American,$11-$30
+ Opa! Coffee & Wine Bar,4,495,American,$11-$30
+ Opa! Coffee & Wine Bar,4,495,American,$11-$30
+ The Park on South Lamar,3.5,504,American,$11-$30
+ Ranch ,3.5,506,American,$11-$30
+ Hopfields,4,507,American,$11-$30
+ North Italia,4,520,American,$11-$30
+ Jack Allen’s Kitchen,4.5,520,American,$11-$30
+ Bun Belly,4,529,American,$11-$30
+ Café No Sé,4,540,American,$11-$30
+ Juniper,4.5,541,American,$11-$30
+ The Grove Wine Bar & Kitchen,4,547,American,$11-$30
+ Sala and Betty,4.5,548,American,$11-$30
+ Salt & Time,3.5,553,American,$11-$30
+ Gourmands Neighborhood Pub,4,555,American,$11-$30
+ Hideaway Kitchen & Bar,4,557,American,$11-$30
+  Cafe & Bakery,4,568,American,$11-$30
+ Cedar Door Patio Bar & Grill,3.5,575,American,$11-$30
+ Paperboy,4.5,576,American,$11-$30
+ Hank’s,3.5,578,American,$11-$30
+ Draught House Pub & Brewery,4.5,581,American,$11-$30
+ Dai Due,4,585,American,$11-$30
+ Irene’s,4,604,American,$11-$30
+ Valencia’s Tex-Mex Garage,3.5,612,American,$11-$30
+ Doc B’s Restaurant  Bar,4.5,630,American,$11-$30
+ Abel’s On the Lake,2.5,630,American,$11-$30
+ District Kitchen & Cocktails,4,635,American,$11-$30
+ Eldorado Cafe,4.5,638,American,$11-$30
+ Russian House,4,646,American,$11-$30
+ Jacoby’s Restaurant & Mercantile,4,650,American,$11-$30
+ Hyde Park Bar & Grill Central,3.5,659,American,$11-$30
+ Pinthouse Pizza,4.5,669,American,$11-$30
+ Forthright,4,675,American,$11-$30
+ Corner,4,678,American,$11-$30
+ Yard House,4,701,American,$11-$30
+ Mi Madre’s,4,704,American,$11-$30
+ Cover ,4,707,American,$11-$30
+ Trudy’s South Star,3.5,707,American,$11-$30
+ Black Sheep Lodge,3.5,712,American,$11-$30
+ Juliet Italian Kitchen,4,715,American,$11-$30
+ French Quarter Grille,4.5,716,American,$11-$30
+ Whip In,4,724,American,$11-$30
+ Arturo’s Underground Cafe,4.5,729,American,$11-$30
+ Sawyer & Co,4,750,American,$11-$30
+ Black Star Co-op Pub & Brewery,4,754,American,$11-$30
+ Picnik,4,758,American,$11-$30
+ Foreign & Domestic,4,759,American,$11-$30
+ Cypress Grill,4,763,American,$11-$30
+ Lin Asian Bar And Dim Sum,4,778,American,$11-$30
+ Texas Chili Parlor,3.5,801,American,$11-$30
+ Cherrywood Coffeehouse,4,806,American,$11-$30
+ Cherrywood Coffeehouse,4,806,American,$11-$30
+ Santorini Cafe,4.5,820,American,$11-$30
+ Cenote,4,835,American,$11-$30
+ Stella San Jac,4,840,American,$11-$30
+ Jewboy Burgers,5,851,American,$11-$30
+ Foxhole Culinary Tavern,4,866,American,$11-$30
+ The Peached Tortilla,4,883,American,$11-$30
+ Eureka!,4,884,American,$11-$30
+ Kerbey Lane Cafe - University,3.5,897,American,$11-$30
+ Via  Pizza - Oak Hill,4.5,913,American,$11-$30
+ Hoover’s Cooking,3.5,945,American,$11-$30
+ Hillside Farmacy,3.5,953,American,$11-$30
+ Caroline,4.5,963,American,$11-$30
+ Chez Zee American Bistro,3.5,980,American,$11-$30
+" Snooze, an AM Eatery",4,986,American,$11-$30
+ Taverna,3.5,1003,American,$11-$30
+ Parkside,4,1009,American,$11-$30
+ True Food Kitchen,4.5,1015,American,$11-$30
+ The Salt Lick BBQ - Austin Airport,3.5,1051,American,$11-$30
+ Pinthouse Pizza,4,1119,American,$11-$30
+ Roaring Fork,4,1146,American,$11-$30
+ Launderette,4,1185,American,$11-$30
+ Roaring Fork,4,1222,American,$11-$30
+ Péché,4,1229,American,$11-$30
+" Snooze, an AM Eatery",4,1250,American,$11-$30
+ Phoebe’s Diner,4.5,1262,American,$11-$30
+ Casino El Camino,3.5,1284,American,$11-$30
+ Kerbey Lane Cafe - Central,4,1347,American,$11-$30
+ North Italia,4,1403,American,$11-$30
+ Loro,4,1456,American,$11-$30
+ Culinary Dropout,4,1486,American,$11-$30
+ Gourdough’s Public House,4,1654,American,$11-$30
+ Magnolia Cafe South,3.5,1661,American,$11-$30
+ Jack Allen’s Kitchen,4.5,1759,American,$11-$30
+ Hopdoddy Burger Bar,4,1839,American,$11-$30
+ Lamberts Downtown Barbecue,4,1844,American,$11-$30
+  Diner,3.5,1961,American,$11-$30
+ Bangers Sausage House & Beer Garden,4,2524,American,$11-$30
+ Gus’s World Famous Fried Chicken,4.5,2718,American,$11-$30
+ The OASIS on Lake Travis,2.5,2887,American,$11-$30
+ Salty Sow,4.5,2888,American,$11-$30
+ Hopdoddy Burger Bar,4,4857,American,$11-$30
+ Moonshine Patio Bar & Grill,4.5,5150,American,$11-$30
+ Franklin Barbecue,4.5,5256,American,$11-$30
+ Hill Country Dining,3,9,American,$31-$60
+ The Austin Club,4.5,27,American,$31-$60
+ United Club,3,37,American,$31-$60
+ Visconti Ristorante & Bar,3.5,43,American,$31-$60
+ Living Room Lounge - W Hotel Austin,4,103,American,$31-$60
+ Sammie’s Italian,3.5,104,American,$31-$60
+ Hudson’s Hill Country,4,119,American,$31-$60
+ Plate By Dzintra,4,194,American,$31-$60
+ CARVE American Grille,4,277,American,$31-$60
+ Mattie’s,4,286,American,$31-$60
+ The Carillon,4.5,293,American,$31-$60
+ Perry’s Steakhouse & Grille - Northside,3.5,300,American,$31-$60
+ Arlo Grey by Kristen Kish,4,320,American,$31-$60
+ The Capital Grille,4,362,American,$31-$60
+ Gino’s Vino Osteria,4.5,381,American,$31-$60
+ L’Oca d’Oro,4,401,American,$31-$60
+ Bob’s Steak & Chop House,4,426,American,$31-$60
+ Soto South Lamar,4,431,American,$31-$60
+ Geraldine’s,3.5,455,American,$31-$60
+ Olamaie,4,455,American,$31-$60
+ Fukumoto Sushi & Yakitori,4.5,498,American,$31-$60
+ Lenoir,4,503,American,$31-$60
+ Fleming’s Prime Steakhouse & Wine Bar,4,506,American,$31-$60
+ Eddie V’s Prime Seafood,4.5,527,American,$31-$60
+ Eberly,4,549,American,$31-$60
+ Paul Martin’s American Grill,4,565,American,$31-$60
+ Vince Young Steakhouse,4,571,American,$31-$60
+ The Roosevelt Room,4.5,581,American,$31-$60
+ ALC Steaks,4,611,American,$31-$60
+ Truluck’s Ocean’s Finest Seafood & Crab,4.5,616,American,$31-$60
+ Emmer & Rye,4,725,American,$31-$60
+ Estância Brazilian Steakhouse,4,789,American,$31-$60
+ Wink,4,795,American,$31-$60
+ Fixe Austin’s Southern House,4,798,American,$31-$60
+ Bartlett’s,4,823,American,$31-$60
+ Fogo De Chão,4,904,American,$31-$60
+ Truluck’s Ocean’s Finest Seafood & Crab,4.5,921,American,$31-$60
+ Steiner Ranch Steakhouse,3.5,937,American,$31-$60
+ Fonda San Miguel,4,966,American,$31-$60
+ Swift’s Attic,4,1087,American,$31-$60
+ Barley Swine,4.5,1134,American,$31-$60
+ Justine’s Brasserie,4,1163,American,$31-$60
+ Eddie V’s Prime Seafood,4.5,1223,American,$31-$60
+ Perry’s Steakhouse & Grille - Downtown Austin,4,1250,American,$31-$60
+ Perla’s,4,1697,American,$31-$60
+ Odd Duck,4.5,1900,American,$31-$60
+ Los Catrachos,3,15,American,over $61
+ J Carver’s,4,65,American,over $61
+ Simi Estiatorio,3.5,66,American,over $61
+ The Driskill Grill,3.5,220,American,over $61
+ Jeffrey’s,4,418,American,over $61
+ III Forks,4,517,American,over $61
+ BibiBowl,3.5,2,Asian,under $10
+ Morales Tex-Mex Food,3,12,Asian,under $10
+ Kebab Time,3.5,13,Asian,under $10
+ Hair City,4,13,Asian,under $10
+ Frydeez,4,26,Asian,under $10
+ Pinch,4,27,Asian,under $10
+ Mission Dogs,4.5,27,Asian,under $10
+ Japan Cafe,2.5,28,Asian,under $10
+ El Rancho Supermercado,3.5,31,Asian,under $10
+ HEB Grocery,1.5,32,Asian,under $10
+ Jay Kelly Hair Studio,4.5,32,Asian,under $10
+ Shahi Foods,3,34,Asian,under $10
+ Lit Lounge,3.5,36,Asian,under $10
+ TJ’s Seafood,4,36,Asian,under $10
+ Lit Lounge,3.5,36,Asian,under $10
+ Xiang Yun Tea Room,4.5,37,Asian,under $10
+ F & F Fruit Cups,4,37,Asian,under $10
+ Panda Express,2.5,56,Asian,under $10
+ Mom’s Taste,4.5,58,Asian,under $10
+ Mom’s Taste,4.5,58,Asian,under $10
+ Blue Basil,4.5,60,Asian,under $10
+ Cups & Cones,4.5,60,Asian,under $10
+ Pho Dinh Vietnamese Cuisine,4,61,Asian,under $10
+ Longhorn Chicken,3.5,61,Asian,under $10
+ Longhorn Chicken,3.5,61,Asian,under $10
+ Sarku Japan,4,62,Asian,under $10
+ SnoMo,5,64,Asian,under $10
+ Highland,3,65,Asian,under $10
+ Matamoros Tacos,4.5,68,Asian,under $10
+ Dunkin’,2,68,Asian,under $10
+ Gong Cha,3.5,69,Asian,under $10
+ Amigo’s BBQ Grill,4,71,Asian,under $10
+ Walmart Supercenter,2,72,Asian,under $10
+ Fresh Tofu,3.5,73,Asian,under $10
+ Pinch,4.5,75,Asian,under $10
+ Wrigleyville South Dogs & Beef,4.5,75,Asian,under $10
+ The Bee Grocery,4,77,Asian,under $10
+ Oh K-Dog,4,79,Asian,under $10
+ Snap Kitchen,4,79,Asian,under $10
+ Fiesta Mart,3.5,80,Asian,under $10
+ China Pacific,3,81,Asian,under $10
+ Ding Tea,4,81,Asian,under $10
+ Panda Express,3,81,Asian,under $10
+ The Aquarium On Sixth,3,81,Asian,under $10
+ Ding Tea,4,81,Asian,under $10
+ Panda Express,3,81,Asian,under $10
+ My Thai Mom,4,82,Asian,under $10
+ Wanfu ,3,85,Asian,under $10
+ Chef Hong,5,86,Asian,under $10
+ China House,2.5,88,Asian,under $10
+ Yoree Korean Cuisine,3.5,89,Asian,under $10
+ Monk’s Momo,4.5,91,Asian,under $10
+ BANTHAI Express,4.5,92,Asian,under $10
+ DFG Noodles,4,93,Asian,under $10
+ China Kitchen,2,93,Asian,under $10
+ Omg Squee,4,94,Asian,under $10
+ Oma’s Kitchen,4,95,Asian,under $10
+ Thai Thani,4,97,Asian,under $10
+ Fire Bowl Cafe,3.5,97,Asian,under $10
+ Joy East Chinese Restaurant,1.5,101,Asian,under $10
+ Asia Chinese Restaurant,3,103,Asian,under $10
+ Filipino Asian Mart,4.5,104,Asian,under $10
+ Beijing Wok,2.5,105,Asian,under $10
+ Foot Massage,4.5,109,Asian,under $10
+ Tiniest Bar in Texas,4,115,Asian,under $10
+ Sesame Hill,3,116,Asian,under $10
+ H-E-B,3.5,118,Asian,under $10
+ Shahi Cafè,4,119,Asian,under $10
+ Pho Ha Noi Cuisine,4,120,Asian,under $10
+ Fiesta Mart,3.5,120,Asian,under $10
+ Cain and Abel’s,3,120,Asian,under $10
+ Panera Bread,3,122,Asian,under $10
+ Panera Bread,3,122,Asian,under $10
+ Don Don Express,4,124,Asian,under $10
+ Don Don Express,4,124,Asian,under $10
+ Drinks Lounge,4,124,Asian,under $10
+ Halal Bros,4,124,Asian,under $10
+ Drinks Lounge,4,124,Asian,under $10
+ Walmart Supercenter,2,126,Asian,under $10
+ Super China,3.5,129,Asian,under $10
+ Super China,3.5,129,Asian,under $10
+ WAT ZAB Thai Food,4.5,131,Asian,under $10
+ Madras Dhaba,4.5,132,Asian,under $10
+ Austin Chai Wala,4.5,135,Asian,under $10
+ Phoenicia Bakery and Deli,3.5,135,Asian,under $10
+ Cyclo,3.5,137,Asian,under $10
+ H-E-B,3.5,141,Asian,under $10
+ H-E-B,3.5,141,Asian,under $10
+ Bamboo Garden,3.5,144,Asian,under $10
+ Lily’s Sandwich,3.5,146,Asian,under $10
+ Lily’s Sandwich,3.5,146,Asian,under $10
+ The Library Bar,3.5,154,Asian,under $10
+ Sa-Ten,4.5,155,Asian,under $10
+ Song La,4.5,156,Asian,under $10
+ Wok N Express,4,156,Asian,under $10
+ Chick-fil-A,3.5,158,Asian,under $10
+ Chick-fil-A,3.5,158,Asian,under $10
+ Chi’Lantro,4,161,Asian,under $10
+ Sundaze - Temp CLOSED,4.5,164,Asian,under $10
+ Pei Wei Asian Kitchen,2.5,166,Asian,under $10
+ Pad Thai,3.5,167,Asian,under $10
+ China Dynasty,3.5,169,Asian,under $10
+ Beijing Foot Spa,4,169,Asian,under $10
+ Hana World Market,3.5,178,Asian,under $10
+ The Soup Peddler,4,179,Asian,under $10
+ The Soup Peddler,4,179,Asian,under $10
+ Bodhi Viet Vegan,5,182,Asian,under $10
+ Hole in the Wall,4,182,Asian,under $10
+ Hay Elotes,4,183,Asian,under $10
+ Julie’s Handmade Noodles,4,189,Asian,under $10
+ Pho Dan,4,192,Asian,under $10
+ Pho Dan,4,192,Asian,under $10
+ Dawa Sushi,4.5,193,Asian,under $10
+ Tacodeli,4,193,Asian,under $10
+ Mama Fu’s Asian House,3,195,Asian,under $10
+ Pho Hong,3.5,197,Asian,under $10
+ Happy Dragon Chinese Bistro,3,203,Asian,under $10
+ Happy Dragon Chinese Bistro,3,203,Asian,under $10
+ TC Noodle House,3.5,208,Asian,under $10
+ China Palace,3.5,216,Asian,under $10
+ Four Seasons Chinese Restaurant,3.5,217,Asian,under $10
+ K-Bop,4,220,Asian,under $10
+ °C Bakery Cafe,4,220,Asian,under $10
+ Platinum Ink,4,220,Asian,under $10
+ The Vegan Yacht,4.5,221,Asian,under $10
+ Thai Taste,4,222,Asian,under $10
+ Super Bowl,3.5,223,Asian,under $10
+ Shakespeare’s Pub,3,226,Asian,under $10
+ Pho Thai Son - UT Campus,3.5,233,Asian,under $10
+ Fire Bowl Cafe,3.5,234,Asian,under $10
+ The Soup Peddler Real Food & Juice Bar,4,236,Asian,under $10
+ Little Thai Food,4,237,Asian,under $10
+ BAMBU,4,239,Asian,under $10
+ Wok on Fire,2,247,Asian,under $10
+ Tapioca House,3,248,Asian,under $10
+ Yummi Tacos & More,4,253,Asian,under $10
+ Kung Fu Tea,4.5,253,Asian,under $10
+ Kung Fu Tea,4.5,253,Asian,under $10
+ Llama’s Peruvian Creole,4,254,Asian,under $10
+ Yaya Cafe,3.5,256,Asian,under $10
+ Zen Japanese Food Fast,3.5,269,Asian,under $10
+ The Liberty,4,270,Asian,under $10
+ Hao Hao Restaurant,3.5,271,Asian,under $10
+ Sweet Nails and Spa,4,275,Asian,under $10
+ Chen Z Noodle House,4,278,Asian,under $10
+ The Peached Tortilla,4,278,Asian,under $10
+ Fire Bowl Cafe,3.5,281,Asian,under $10
+ Chinos Fusion Hacienda,4.5,283,Asian,under $10
+ Egg Roll Express,4,286,Asian,under $10
+ Wright Bros Brew & Brew,4,288,Asian,under $10
+ Pho King,3,296,Asian,under $10
+ MT Supermarket,4,297,Asian,under $10
+ Saigon Le Vendeur,4.5,299,Asian,under $10
+ Teapioca Lounge,4,327,Asian,under $10
+ Bamboo Bistro West Gate,3.5,335,Asian,under $10
+ The Hideout Coffeehouse,4,335,Asian,under $10
+ Twin Lion Chinese Restaurant,4,338,Asian,under $10
+ Gelateria Gemelli,4.5,340,Asian,under $10
+ Dong Nai,3.5,348,Asian,under $10
+ Tous Les Jours,4,353,Asian,under $10
+ Bombay Express,4,362,Asian,under $10
+ Chi’Lantro,4,366,Asian,under $10
+ Mi Tradición,4.5,367,Asian,under $10
+ Bao’d Up - Mueller Aldrich,4,383,Asian,under $10
+ Sa-Tén - Canopy,4.5,390,Asian,under $10
+ Baguette House,4,413,Asian,under $10
+ Mr Natural,4,420,Asian,under $10
+ Me Con Bistro,4,425,Asian,under $10
+ CoCo’s Cafe,3.5,428,Asian,under $10
+ Tam Deli & Cafe,4,445,Asian,under $10
+ Teji’s Indian Restaurant and Grocery,3,451,Asian,under $10
+ The Halal Corner,4,455,Asian,under $10
+ Shu Shu’s Asian Cuisine,4,456,Asian,under $10
+ Bo Asian Bistro,4,458,Asian,under $10
+ Kick Butt Coffee,4,462,Asian,under $10
+ First Wok,4,464,Asian,under $10
+ Mellizoz Tacos,4,473,Asian,under $10
+ Mellizoz Tacos,4,473,Asian,under $10
+ Pho Dan,4,480,Asian,under $10
+ Kebabalicious,4,482,Asian,under $10
+ Hai Ky,3.5,488,Asian,under $10
+ Chen’s Noodle House,4,492,Asian,under $10
+ Rosita’s al Pastor,4,494,Asian,under $10
+ Rosita’s al Pastor,4,494,Asian,under $10
+ The Mighty Cone,3.5,495,Asian,under $10
+ The Mighty Cone,3.5,495,Asian,under $10
+ Teapioca Lounge,4,554,Asian,under $10
+ Thai Kitchen,3.5,560,Asian,under $10
+ Dolce Neve,4.5,642,Asian,under $10
+ Chi’Lantro,4,692,Asian,under $10
+ Chi’Lantro - Temp CLOSED,4,718,Asian,under $10
+ Epoch Coffee,4,828,Asian,under $10
+ The Jackalope,4,984,Asian,under $10
+ Tarka Indian Kitchen,4,1002,Asian,under $10
+ Bento Picnic,4.5,80,Asian,$11-$30
+ Bento Picnic,4.5,80,Asian,$11-$30
+ Bikkle Jamaican Restaurant,4.5,81,Asian,$11-$30
+ Bao’d Up - UT West Campus,4,83,Asian,$11-$30
+ Bao’d Up - UT West Campus,4,83,Asian,$11-$30
+ Zao’s Chinese Kitchen,4.5,87,Asian,$11-$30
+ Zao’s Chinese Kitchen,4.5,87,Asian,$11-$30
+ Eurasia Ramen ,4.5,88,Asian,$11-$30
+ Domo Alley Gato,4,89,Asian,$11-$30
+ Han Yang Market,4,89,Asian,$11-$30
+ Hunan Bistro,3.5,89,Asian,$11-$30
+ Left Wing,4,89,Asian,$11-$30
+ Osio,4,91,Asian,$11-$30
+ House of Three Gorges,4.5,104,Asian,$11-$30
+ Charm BBQ Chicken,4,109,Asian,$11-$30
+ REVUE,4,109,Asian,$11-$30
+ Pho Yes,4.5,111,Asian,$11-$30
+ Pho Yes,4.5,111,Asian,$11-$30
+ Jan Chi Korean Cuisine & BBQ,4,118,Asian,$11-$30
+ Jan Chi Korean Cuisine & BBQ,4,118,Asian,$11-$30
+ Joi,3.5,118,Asian,$11-$30
+ Joi,3.5,118,Asian,$11-$30
+ Poke Me Long Time,4,119,Asian,$11-$30
+ Poké Bowl,4,119,Asian,$11-$30
+ Golden Tiger,4.5,121,Asian,$11-$30
+ Golden Tiger,4.5,121,Asian,$11-$30
+ UTea Pho,4.5,122,Asian,$11-$30
+ Spicy Szechuan,3,123,Asian,$11-$30
+ bbq Chicken - Austin,4,133,Asian,$11-$30
+ Gyu-Kaku Japanese BBQ,3.5,139,Asian,$11-$30
+ Oriental Express,3,145,Asian,$11-$30
+ Goya,4.5,146,Asian,$11-$30
+ Goya,4.5,146,Asian,$11-$30
+ Look Noodles & More,3.5,150,Asian,$11-$30
+ Smokin Beauty,4.5,152,Asian,$11-$30
+ Smokin Beauty,4.5,152,Asian,$11-$30
+ Fareground At One Eleven,4,154,Asian,$11-$30
+ Kim Phung Restaurant Riverside,3,154,Asian,$11-$30
+ The Peached Tortilla,4,158,Asian,$11-$30
+ The Peached Tortilla,4,158,Asian,$11-$30
+ Bep Saigon Asian Kitchen,4.5,160,Asian,$11-$30
+ Feng Cha Austin,4,161,Asian,$11-$30
+ Feng Cha Austin,4,161,Asian,$11-$30
+ Poke-Poke,4.5,162,Asian,$11-$30
+ Zaviya Grill,3.5,163,Asian,$11-$30
+ Zaviya Grill,3.5,163,Asian,$11-$30
+ China’s Family Restaurant,3.5,165,Asian,$11-$30
+ Poke Bay,4.5,167,Asian,$11-$30
+ Het Say Vietnamese Kitchen,4.5,177,Asian,$11-$30
+ Jade Restaurant,4,179,Asian,$11-$30
+ Nancy’s Sky Garden,4.5,180,Asian,$11-$30
+ Pho Thai Son - Southpark,3,180,Asian,$11-$30
+ Pho Thai Son - Southpark,3,180,Asian,$11-$30
+ Chinatown Westlake,3,181,Asian,$11-$30
+ Chokdee Thai Cuisine - Manor,4.5,184,Asian,$11-$30
+ Chokdee Thai Cuisine - Manor,4.5,184,Asian,$11-$30
+ Lotus Hunan,4,187,Asian,$11-$30
+ Sushi Hi,4.5,187,Asian,$11-$30
+ Sushi Hi,4.5,187,Asian,$11-$30
+ Pho Phong Luu,5,192,Asian,$11-$30
+ Two Hands,4,192,Asian,$11-$30
+ District Kitchen - Anderson Lane,4.5,195,Asian,$11-$30
+ Le Bleu,4.5,196,Asian,$11-$30
+ Sweet Chive,4,198,Asian,$11-$30
+ Sweet Chive,4,198,Asian,$11-$30
+ LOTUS CHINESE,4,201,Asian,$11-$30
+ LOTUS CHINESE,4,201,Asian,$11-$30
+ Spicy Boys Fried Chicken - St Elmo,4.5,201,Asian,$11-$30
+ Green Mango,4.5,203,Asian,$11-$30
+ Tso Chinese Delivery,4.5,206,Asian,$11-$30
+ Sip Pho,4.5,213,Asian,$11-$30
+ Sazan Ramen,4.5,214,Asian,$11-$30
+ Sway - Temp CLOSED,3.5,215,Asian,$11-$30
+ Sway,3.5,227,Asian,$11-$30
+ Michi Ramen,3.5,230,Asian,$11-$30
+ Michi Ramen,3.5,230,Asian,$11-$30
+ O’daku Sushi,4,232,Asian,$11-$30
+ Mandala Kitchen & Bar,4.5,249,Asian,$11-$30
+ Basil Thai,4,250,Asian,$11-$30
+ Poke Austin,4,250,Asian,$11-$30
+ Super Thai Cuisine,4.5,255,Asian,$11-$30
+ Kublai Khan,3.5,259,Asian,$11-$30
+" Madam Mam’s, West - Bee Cave",3.5,260,Asian,$11-$30
+ Hi Wings,4.5,263,Asian,$11-$30
+ Nagoya Steak and Sushi,3.5,266,Asian,$11-$30
+ Sugar Pine,4.5,268,Asian,$11-$30
+ Happy Chicks,4,272,Asian,$11-$30
+ Happy Chicks,4,272,Asian,$11-$30
+ Coat & Thai,4,274,Asian,$11-$30
+ Qi Austin,4.5,282,Asian,$11-$30
+ China Family Restaurant at Highland,4,282,Asian,$11-$30
+ Pho Thai Son - Southwest Austin,3.5,283,Asian,$11-$30
+ Simply Pho House,3.5,289,Asian,$11-$30
+ Simply Pho House,3.5,289,Asian,$11-$30
+ Umiya,3.5,290,Asian,$11-$30
+ Pho Hoang,4,293,Asian,$11-$30
+ Pho Hoang,4,293,Asian,$11-$30
+ Xian Noodles,4,294,Asian,$11-$30
+ Kanji Ramen,4,296,Asian,$11-$30
+ Shangri-La,4,302,Asian,$11-$30
+ Ebisu Japanese Restaurant,4.5,307,Asian,$11-$30
+ Osaka Mansun Restaurant,4,309,Asian,$11-$30
+ Osaka Mansun Restaurant,4,309,Asian,$11-$30
+ Oseyo,4,310,Asian,$11-$30
+ AA Sichuan China,3.5,311,Asian,$11-$30
+ Twin Panda,4.5,312,Asian,$11-$30
+ Pad Thai Cuisine,3.5,313,Asian,$11-$30
+ Maru Japanese Restaurant,4,315,Asian,$11-$30
+ Maru Japanese Restaurant,4,315,Asian,$11-$30
+ Buenos Aires Cafe,3.5,319,Asian,$11-$30
+ Bar Peached,4.5,321,Asian,$11-$30
+ The Steeping Room,4,321,Asian,$11-$30
+ Tsukimi,4,322,Asian,$11-$30
+ The Halal Gurus,4.5,326,Asian,$11-$30
+ Kim Phung Restaurant - North Lamar,3.5,326,Asian,$11-$30
+ Fat Dragon,4,329,Asian,$11-$30
+ Iron Fish Sushi & Grill,4.5,341,Asian,$11-$30
+ Seoulju Korean Kitchen & Bar,4.5,344,Asian,$11-$30
+ Broth & Basil,4.5,344,Asian,$11-$30
+ Hunan Lion,3.5,349,Asian,$11-$30
+ Pho Phi,4,350,Asian,$11-$30
+ Pho Phi,4,350,Asian,$11-$30
+ Sichuan River,3.5,355,Asian,$11-$30
+ Pho With Us,4.5,358,Asian,$11-$30
+ Mantis Massage,5,363,Asian,$11-$30
+ Heo Eatery,4.5,368,Asian,$11-$30
+ Nanami Sushi Bar & Grill,3.5,381,Asian,$11-$30
+ Chi’Lantro,4,387,Asian,$11-$30
+ Yanagi,3.5,387,Asian,$11-$30
+ Mongers Market  Kitchen,4,388,Asian,$11-$30
+ Mongers Market  Kitchen,4,388,Asian,$11-$30
+ Tso Chinese Delivery,4.5,394,Asian,$11-$30
+ The Little Darlin’,4,395,Asian,$11-$30
+ Ola Poke,4,397,Asian,$11-$30
+ Poke-Poke,4,400,Asian,$11-$30
+ Poke-Poke,4,400,Asian,$11-$30
+ Old Thousand,4,402,Asian,$11-$30
+ DEE DEE,4.5,417,Asian,$11-$30
+ Saffron,4.5,426,Asian,$11-$30
+ Sushi Junai ,4,433,Asian,$11-$30
+ Poke House - Austin,4,435,Asian,$11-$30
+ Poke House - Austin,4,435,Asian,$11-$30
+ Anthem,4.5,436,Asian,$11-$30
+ Ka-Prow Thai & Sushi Bistro,4,437,Asian,$11-$30
+ Ka-Prow Thai & Sushi Bistro,4,437,Asian,$11-$30
+ Madam Mam’s South Brodie LN,4,442,Asian,$11-$30
+ Eurasia Sushi Bar & Seafood,4.5,445,Asian,$11-$30
+ Eurasia Sushi Bar & Seafood,4.5,445,Asian,$11-$30
+ Sap’s Ver Fine Thai Cuisine,4,446,Asian,$11-$30
+ Chosun Korean BBQ,3.5,450,Asian,$11-$30
+ Julie’s Noodles,4,457,Asian,$11-$30
+ Peace Bakery and Deli,4.5,457,Asian,$11-$30
+ Austin Taco Project,3.5,463,Asian,$11-$30
+ Muangthai Thai Cuisine,3.5,465,Asian,$11-$30
+ East Side King,4,478,Asian,$11-$30
+ Charm Korean BBQ,3.5,478,Asian,$11-$30
+ Mikado Ryotei,4,484,Asian,$11-$30
+ Mikado Ryotei,4,484,Asian,$11-$30
+ Bombay Bistro,4,490,Asian,$11-$30
+ The Buzz Mill,4,497,Asian,$11-$30
+ Korean Grill,4,500,Asian,$11-$30
+ First Chinese Barbecue,4,504,Asian,$11-$30
+ Bun Belly,4,529,Asian,$11-$30
+ East Side King,4,531,Asian,$11-$30
+ LUV Thai Cuisine,4,535,Asian,$11-$30
+ LUV Thai Cuisine,4,535,Asian,$11-$30
+ NG Cafe,4,537,Asian,$11-$30
+ Café No Sé,4,540,Asian,$11-$30
+ CoCo’s Cafe,4,543,Asian,$11-$30
+ CoCo’s Cafe,4,543,Asian,$11-$30
+ RA Sushi Bar Restaurant,3,544,Asian,$11-$30
+ Sushi Junai,3.5,545,Asian,$11-$30
+ Thai Kun,4,548,Asian,$11-$30
+ Ramen Tatsu-Ya,4,563,Asian,$11-$30
+ Madam Mam’s - UT West Campus,3,579,Asian,$11-$30
+ Xian Sushi and Noodle,4,612,Asian,$11-$30
+ Doc B’s Restaurant  Bar,4.5,630,Asian,$11-$30
+ Barlata Tapas Bar,4,672,Asian,$11-$30
+ Forthright,4,675,Asian,$11-$30
+ Sushi Nini,4,676,Asian,$11-$30
+ Rice Bowl Cafe,4,692,Asian,$11-$30
+ Madam Mam’s- North Anderson LN,3.5,692,Asian,$11-$30
+ Mai Thai Restaurant,4,708,Asian,$11-$30
+ Arturo’s Underground Cafe,4.5,729,Asian,$11-$30
+ BarChi Sushi,3.5,746,Asian,$11-$30
+ BarChi Sushi,3.5,746,Asian,$11-$30
+ Picnik,4,758,Asian,$11-$30
+ Freda’s Seafood Grille,4,761,Asian,$11-$30
+ Kemuri Tatsu-ya,4,774,Asian,$11-$30
+ Tuk Tuk Thai Cafe,4,777,Asian,$11-$30
+ Lin Asian Bar And Dim Sum,4,778,Asian,$11-$30
+ Pho Saigon Noodle House,4,780,Asian,$11-$30
+ Tan My,4.5,781,Asian,$11-$30
+ Ho Ho Chinese BBQ,3.5,782,Asian,$11-$30
+ Ho Ho Chinese BBQ,3.5,782,Asian,$11-$30
+ Thai Cuisine,4,789,Asian,$11-$30
+ Almarah Mediterranean Cuisine,4,789,Asian,$11-$30
+ Thai Cuisine,4,789,Asian,$11-$30
+ Asiana Indian Cuisine,4.5,809,Asian,$11-$30
+ Sip Saam Thai,4,825,Asian,$11-$30
+ Umi Sushi Bar & Grill,4,826,Asian,$11-$30
+ Tomodachi Sushi,4.5,831,Asian,$11-$30
+ Din Ho Chinese BBQ,3.5,866,Asian,$11-$30
+ Korea House,3.5,879,Asian,$11-$30
+ The Peached Tortilla,4,883,Asian,$11-$30
+ Thai Fresh,3.5,887,Asian,$11-$30
+ Wu Chow,4,889,Asian,$11-$30
+ JINYA Ramen Bar - Austin,3.5,905,Asian,$11-$30
+ Ichi Umi Sushi,4.5,1008,Asian,$11-$30
+ Parkside,4,1009,Asian,$11-$30
+ Parkside,4,1009,Asian,$11-$30
+ True Food Kitchen,4.5,1015,Asian,$11-$30
+ True Food Kitchen,4.5,1015,Asian,$11-$30
+ Pho Please,4.5,1027,Asian,$11-$30
+ The Salt Lick BBQ - Austin Airport,3.5,1051,Asian,$11-$30
+ The Salt Lick BBQ - Austin Airport,3.5,1051,Asian,$11-$30
+ Kura Revolving Sushi Bar,3.5,1060,Asian,$11-$30
+ SLAB BBQ & Beer,4.5,1063,Asian,$11-$30
+ Turf N Surf Po’ Boy,4.5,1106,Asian,$11-$30
+ IchiUmi Ramen & Poke,4,1108,Asian,$11-$30
+ Lucky Robot,4,1186,Asian,$11-$30
+ Michi Ramen,3.5,1263,Asian,$11-$30
+ Komé,4,1355,Asian,$11-$30
+ Loro,4,1456,Asian,$11-$30
+ Culinary Dropout,4,1486,Asian,$11-$30
+ Elizabeth Street Cafe,3.5,1502,Asian,$11-$30
+  Asian Fusion,4.5,1529,Asian,$11-$30
+ Titaya’s Thai Cuisine,4,1722,Asian,$11-$30
+ Koriente,4.5,1783,Asian,$11-$30
+ Hula Hut,3.5,1803,Asian,$11-$30
+  Pan Asian Restaurant,4,1821,Asian,$11-$30
+ Lamberts Downtown Barbecue,4,1844,Asian,$11-$30
+ Ramen Tatsu-Ya,4,1862,Asian,$11-$30
+ Ramen Tatsu-Ya,4,2701,Asian,$11-$30
+ Gus’s World Famous Fried Chicken,4.5,2718,Asian,$11-$30
+ Gus’s World Famous Fried Chicken,4.5,2718,Asian,$11-$30
+ Terry Black’s Barbecue,4.5,4415,Asian,$11-$30
+ Terry Black’s Barbecue,4.5,4415,Asian,$11-$30
+ Moonshine Patio Bar & Grill,4.5,5150,Asian,$11-$30
+ Franklin Barbecue,4.5,5256,Asian,$11-$30
+ Golden Nails Salon & Spa,4,289,Asian,$31-$60
+ Perry’s Steakhouse & Grille - Northside,3.5,300,Asian,$31-$60
+ Arlo Grey by Kristen Kish,4,320,Asian,$31-$60
+ Il Brutto,4,344,Asian,$31-$60
+ Westlake Dermatology & Cosmetic Surgery,4,357,Asian,$31-$60
+ Fleming’s Prime Steakhouse & Wine Bar,4,371,Asian,$31-$60
+ Gino’s Vino Osteria,4.5,381,Asian,$31-$60
+ L’Oca d’Oro,4,401,Asian,$31-$60
+ Bob’s Steak & Chop House,4,426,Asian,$31-$60
+ Bob’s Steak & Chop House,4,426,Asian,$31-$60
+ Soto South Lamar,4,431,Asian,$31-$60
+ Soto South Lamar,4,431,Asian,$31-$60
+ Olamaie,4,455,Asian,$31-$60
+ The Melting Pot,4,459,Asian,$31-$60
+ The Melting Pot,4,459,Asian,$31-$60
+ Fukumoto Sushi & Yakitori,4.5,498,Asian,$31-$60
+ Fukumoto Sushi & Yakitori,4.5,498,Asian,$31-$60
+ Lenoir,4,503,Asian,$31-$60
+ Fleming’s Prime Steakhouse & Wine Bar,4,506,Asian,$31-$60
+ Fleming’s Prime Steakhouse & Wine Bar,4,506,Asian,$31-$60
+ Eddie V’s Prime Seafood,4.5,527,Asian,$31-$60
+ Eddie V’s Prime Seafood,4.5,527,Asian,$31-$60
+ Eberly,4,549,Asian,$31-$60
+ Paul Martin’s American Grill,4,565,Asian,$31-$60
+ Paul Martin’s American Grill,4,565,Asian,$31-$60
+ milk  honey,4,568,Asian,$31-$60
+ ALC Steaks,4,611,Asian,$31-$60
+ Truluck’s Ocean’s Finest Seafood & Crab,4.5,616,Asian,$31-$60
+ Clark’s Oyster Bar,4,665,Asian,$31-$60
+ Emmer & Rye,4,725,Asian,$31-$60
+ Soto Japanese Restaurant & Sushi Bar,4.5,891,Asian,$31-$60
+ Red Ash,4.5,916,Asian,$31-$60
+ Truluck’s Ocean’s Finest Seafood & Crab,4.5,921,Asian,$31-$60
+ Fonda San Miguel,4,966,Asian,$31-$60
+ Swift’s Attic,4,1087,Asian,$31-$60
+ Barley Swine,4.5,1134,Asian,$31-$60
+ Justine’s Brasserie,4,1163,Asian,$31-$60
+ Eddie V’s Prime Seafood,4.5,1223,Asian,$31-$60
+ Perla’s,4,1697,Asian,$31-$60
+ Odd Duck,4.5,1900,Asian,$31-$60
+ J Carver’s,4,65,Asian,over $61
+ Otoko,4.5,111,Asian,over $61
+ DipDipDip Tatsu-Ya,4,290,Asian,over $61
+ Ruth’s Chris Steak House,3.5,393,Asian,over $61
+ III Forks,4,517,Asian,over $61
+ Uchiko,4.5,1910,Asian,over $61
+ Uchi,4.5,2610,Asian,over $61
+ Curry In Hurry,3.5,40,Indian,under $10
+ Lamba’s Royal Indian,3.5,40,Indian,under $10
+ Taste From India,3.5,45,Indian,under $10
+ Bombay Street Food,4.5,52,Indian,under $10
+ Pav Bhaji Vada Pav Zone,4.5,61,Indian,under $10
+ Shawarma Point,4,66,Indian,under $10
+ Conscious Cravings,4,83,Indian,under $10
+ Monk’s Momo,4.5,91,Indian,under $10
+ Shawarma Point,4,92,Indian,under $10
+ Shahi Cafè,4,119,Indian,under $10
+ Masala Dhaba,3.5,130,Indian,under $10
+ Madras Dhaba,4.5,132,Indian,under $10
+ The Vegan Yacht,4.5,221,Indian,under $10
+ Fat Cats Organic Coffee And Dessert,4.5,235,Indian,under $10
+ Conscious Cravings,4,291,Indian,under $10
+ Masala Wok,3.5,310,Indian,under $10
+ Kismet Cafe,4.5,337,Indian,under $10
+ Bombay Express,4,362,Indian,under $10
+ Teji’s Indian Restaurant and Grocery,3,451,Indian,under $10
+ The Halal Corner,4,455,Indian,under $10
+ Arlo’s,4.5,641,Indian,under $10
+ Tarka Indian Kitchen,4,1002,Indian,under $10
+ Curry Kitchen,5,67,Indian,$11-$30
+ Saffron,4,69,Indian,$11-$30
+ Chutney,3.5,74,Indian,$11-$30
+ Bawarchi Biryanis,3,96,Indian,$11-$30
+ Tarka Indian Kitchen,4,103,Indian,$11-$30
+ Dimassi’s Mediterranean Buffet,4.5,135,Indian,$11-$30
+ Snap Kitchen,4.5,140,Indian,$11-$30
+ Kabobzi Mediterranean Grill,4.5,154,Indian,$11-$30
+ Zaviya Grill,3.5,163,Indian,$11-$30
+ Arlo’s,4.5,169,Indian,$11-$30
+ Zaika Indian Contemporary Cuisine,4,172,Indian,$11-$30
+ Chennai Cafe,3.5,191,Indian,$11-$30
+ Biryani-N-Grill,3,194,Indian,$11-$30
+ Velvet Taco,4.5,207,Indian,$11-$30
+ Spice Fine Indian Cuisine,4,218,Indian,$11-$30
+ Biryani & Co,4,221,Indian,$11-$30
+ Biryani-N-Grill,3,223,Indian,$11-$30
+ Kumar’s Austin,3.5,232,Indian,$11-$30
+ Jaipur Palace,4.5,237,Indian,$11-$30
+ New Sitara Indian Cuisine,4.5,240,Indian,$11-$30
+ Kebabalicious,4,272,Indian,$11-$30
+ Suprabhat,3,275,Indian,$11-$30
+ The Kebab Shop,4,278,Indian,$11-$30
+ Sangam Chettinad Indian Cuisine,4,300,Indian,$11-$30
+ Bombay Dhaba,4.5,307,Indian,$11-$30
+ Taste of Ethiopia,4.5,316,Indian,$11-$30
+ The Halal Gurus,4.5,326,Indian,$11-$30
+ Star Of India,3.5,355,Indian,$11-$30
+ Masala Wok,3.5,355,Indian,$11-$30
+ Inchin’s Bamboo Garden,3.5,357,Indian,$11-$30
+ Habesha Ethiopian Restaurant And Bar,4,361,Indian,$11-$30
+ Biryani Pot,3.5,396,Indian,$11-$30
+ Caspian Grill,4.5,407,Indian,$11-$30
+ Halal Bros,4,418,Indian,$11-$30
+ Saffron,4.5,426,Indian,$11-$30
+ Nasha,4,452,Indian,$11-$30
+ Abo Youssef Mediterraneann Halal,4.5,484,Indian,$11-$30
+ Buffet Palace,3.5,486,Indian,$11-$30
+ Bombay Bistro,4,490,Indian,$11-$30
+ Dimassi’s Mediterranean Buffet,4,490,Indian,$11-$30
+ The Beer Plant,4,541,Indian,$11-$30
+ Tarka Indian Kitchen,4,565,Indian,$11-$30
+ Halal Bros,4,632,Indian,$11-$30
+ Casa De Luz,4.5,637,Indian,$11-$30
+ Picnik,4,758,Indian,$11-$30
+ Asiana Indian Cuisine,4.5,809,Indian,$11-$30
+ Counter Culture,4.5,854,Indian,$11-$30
+ True Food Kitchen,4.5,1015,Indian,$11-$30
+ Clay Pit,4,1727,Indian,$11-$30
+ Koriente,4.5,1783,Indian,$11-$30
+ Bouldin Creek Cafe,4.5,2440,Indian,$11-$30
+ Marco’s Pizza,3,91,Italian,under $10
+ Edge Rooftop,4.5,97,Italian,under $10
+ Marco’s Pizza,3.5,97,Italian,under $10
+ Dia’s Market,4.5,98,Italian,under $10
+ Austin’s Pizza,3.5,99,Italian,under $10
+ Panera Bread,2.5,100,Italian,under $10
+ Whole Foods Market,3.5,100,Italian,under $10
+ MOD Pizza,4,101,Italian,under $10
+ Oddwood Ales,4.5,102,Italian,under $10
+ Con’ Olio Oils & Vinegars,5,108,Italian,under $10
+ REVUE,4,109,Italian,under $10
+ Panera Bread,2.5,109,Italian,under $10
+ Peoples Rx,4,110,Italian,under $10
+ Russo’s New York Pizzeria & Italian Kitchen - Austin,3.5,112,Italian,under $10
+ Beachside Billys,3,114,Italian,under $10
+ Beachside Billys,3,114,Italian,under $10
+ Snarf’s Sandwiches,3.5,115,Italian,under $10
+ The Happy Lobster Truck,4.5,116,Italian,under $10
+ Joes Italian Kitchen,4,121,Italian,under $10
+  Degrees Kitchen,4,127,Italian,under $10
+ Edis Chocolates,4.5,127,Italian,under $10
+ Applebee’s Grill  Bar,3,129,Italian,under $10
+ Modern Market,3.5,131,Italian,under $10
+ Southside Flying Pizza,3.5,131,Italian,under $10
+ Cannone Cucina Italiana,4.5,133,Italian,under $10
+ i Fratelli Pizza North - Austin,4.5,133,Italian,under $10
+ The Cupcake Bar,5,135,Italian,under $10
+ Woody’s Pizza,3,135,Italian,under $10
+ Woody’s Pizza,3,135,Italian,under $10
+ Little Woodrow’s Parmer Lane,3,138,Italian,under $10
+ Snap Kitchen,4.5,140,Italian,under $10
+ Austin Cake Ball,4,148,Italian,under $10
+ MAD Greens - South Austin,4,148,Italian,under $10
+ CAVA,4,150,Italian,under $10
+ Here Nor There,5,152,Italian,under $10
+ Aviator Pizza & Drafthouse- Parmer Lane,4,152,Italian,under $10
+ Aviator Pizza & Drafthouse- Parmer Lane,4,152,Italian,under $10
+ Panera Bread,2.5,153,Italian,under $10
+ Panera Bread,2.5,154,Italian,under $10
+ Bufalina Due,4,155,Italian,under $10
+ Snarf’s Sandwiches,3.5,156,Italian,under $10
+ The Butterfly Bar,4,157,Italian,under $10
+ Lakeside Pizza & Grill,3.5,158,Italian,under $10
+ Red Lobster,3,166,Italian,under $10
+ Johnny Carino’s,3,170,Italian,under $10
+ The Git Out,4.5,173,Italian,under $10
+ Revelry on the Boulevard,4.5,180,Italian,under $10
+ Salvation Pizza - Rainey Street,3.5,181,Italian,under $10
+ Marye’s Gourmet Pizza,4.5,182,Italian,under $10
+ The Growler Bar and Kitchen,4.5,183,Italian,under $10
+ Vic & Al’s,5,184,Italian,under $10
+ Cidercade Austin,4.5,186,Italian,under $10
+ SnowBall RiceBall,4,193,Italian,under $10
+ Salvation Pizza Kitchen and Bar - Rock Rose,2.5,196,Italian,under $10
+ Brooklyn Pie,3.5,201,Italian,under $10
+ ARTIPASTA,4.5,204,Italian,under $10
+ Urban,3.5,207,Italian,under $10
+ Urban,3.5,207,Italian,under $10
+ Li’l Nonna’s,4.5,211,Italian,under $10
+ Li’l Nonna’s,4.5,211,Italian,under $10
+ Olive Garden Italian Restaurant,3.5,216,Italian,under $10
+ Frost Gelato,4.5,217,Italian,under $10
+ Market Street Pizza,4.5,220,Italian,under $10
+ The Parlor,3.5,221,Italian,under $10
+ Johnny Carino’s,2.5,223,Italian,under $10
+ Conans Pizza South,3,224,Italian,under $10
+ Sprouts Farmers Market,3.5,225,Italian,under $10
+ Cucina On th,4,226,Italian,under $10
+ Sway,3.5,227,Italian,under $10
+ Pacific Star Restaurant & Oyster Bar,3,227,Italian,under $10
+ The Original Brooklyn Pie,3.5,233,Italian,under $10
+ Mouton’s Bistro & Bar,4,238,Italian,under $10
+ Annie’s Cafe and Bar,3,239,Italian,under $10
+ Flores Mexican Restaurant,3,239,Italian,under $10
+ East Side Pies,4,240,Italian,under $10
+ Olive Garden Italian Restaurant,2.5,242,Italian,under $10
+ DeSano Pizzeria Napoletana,4.5,243,Italian,under $10
+ Olive Garden Italian Restaurant,3,246,Italian,under $10
+ Whole Foods Market,3.5,246,Italian,under $10
+ Sweet Treets Bakery,4.5,247,Italian,under $10
+ Catfish Parlour,3.5,251,Italian,under $10
+ P,3.5,253,Italian,under $10
+  North,4.5,257,Italian,under $10
+ California Pizza Kitchen at The Domain,3,260,Italian,under $10
+ Carrabba’s Italian Grill,3.5,261,Italian,under $10
+ Gino’s Italian Cuisine,3.5,262,Italian,under $10
+ Salata,4.5,262,Italian,under $10
+ Aviary Wine & Kitchen,4.5,264,Italian,under $10
+ Nightcap,4,273,Italian,under $10
+ Nightcap,4,273,Italian,under $10
+ The Cheesecake Factory - Austin,3,283,Italian,under $10
+ Second Bar  Kitchen - Domain Northside,4,285,Italian,under $10
+ Nik’s Italian Kitchen  Bar,3.5,287,Italian,under $10
+ It’s Italian Cucina,4,289,Italian,under $10
+  UNO,4,292,Italian,under $10
+ Mister Tramps,4,296,Italian,under $10
+ Intero Restaurant,4.5,299,Italian,under $10
+ Cipollina,3.5,300,Italian,under $10
+ CRÚ Food & Wine Bar,3.5,304,Italian,under $10
+ Garbo’s Lobster Truck,4,304,Italian,under $10
+ Taverna,3.5,312,Italian,under $10
+ Mandola’s Italian,4,316,Italian,under $10
+ BackDraft Pizzeria,4.5,316,Italian,under $10
+ CRÚ Food & Wine Bar,3.5,318,Italian,under $10
+ Balkan Cafe & Grill,4.5,319,Italian,under $10
+ Bar Peached,4.5,321,Italian,under $10
+ SLAB BBQ & Beer,4.5,325,Italian,under $10
+ Baris Pasta & Pizza,3.5,328,Italian,under $10
+ Baker St Pub & Grill,3,328,Italian,under $10
+ The Grove Wine Bar & Kitchen,4,344,Italian,under $10
+ Seoulju Korean Kitchen & Bar,4.5,344,Italian,under $10
+ Tony C’s,4,346,Italian,under $10
+ Newk’s Eatery,4,350,Italian,under $10
+ Cover ,4,350,Italian,under $10
+ Sundancer Grill,4,359,Italian,under $10
+ Via  Pizza,4.5,359,Italian,under $10
+ Blaze Pizza,4,359,Italian,under $10
+ Aviator Pizza & Drafthouse,4,360,Italian,under $10
+ Satellite,3.5,362,Italian,under $10
+ Conans Pizza North,4,364,Italian,under $10
+ Siena Ristorante Toscana,3.5,367,Italian,under $10
+ Austin Terrier,4,370,Italian,under $10
+ June’s,4,375,Italian,under $10
+ The Tavern,3.5,379,Italian,under $10
+ Mia Italian Tapas & Bar,4,381,Italian,under $10
+ House Wine,4.5,384,Italian,under $10
+ Stuffed Cajun Meat Market,4,385,Italian,under $10
+ Quattro Gatti Ristorante e Pizzeria,3.5,388,Italian,under $10
+ Toss Pizzeria & Pub,4,388,Italian,under $10
+ Antonelli’s Cheese Shop,4.5,393,Italian,under $10
+ Whole Foods Market,4,397,Italian,under $10
+ Pour House Pints And Pies,4,399,Italian,under $10
+ Pour House Pints And Pies,4,399,Italian,under $10
+ Vinaigrette,4,401,Italian,under $10
+ Old Thousand,4,402,Italian,under $10
+ Mandola’s Italian,3.5,420,Italian,under $10
+ Gusto Italian Kitchen & Wine Bar,4,423,Italian,under $10
+ Alamo Drafthouse Cinema South Lamar,3.5,431,Italian,under $10
+ BJ’s Restaurant & Brewhouse,3,433,Italian,under $10
+ Pappadeaux Seafood Kitchen,3.5,438,Italian,under $10
+ Eurasia Sushi Bar & Seafood,4.5,445,Italian,under $10
+ Milano Cafe,4,447,Italian,under $10
+ ASTI Trattoria,3.5,447,Italian,under $10
+" Manolis Ice Cream, Pastries, & Cakes",5,450,Italian,under $10
+" Manolis Ice Cream, Pastries, & Cakes",5,450,Italian,under $10
+ Buca di Beppo Italian Restaurant,3,454,Italian,under $10
+ Peace Bakery and Deli,4.5,457,Italian,under $10
+ La Patisserie,4,458,Italian,under $10
+ The Rolling Rooster,4,464,Italian,under $10
+ Numero,4,486,Italian,under $10
+ Cosmic Coffee  Beer Garden,4.5,487,Italian,under $10
+ BJ’s Restaurant & Brewhouse,3,494,Italian,under $10
+ Opa! Coffee & Wine Bar,4,495,Italian,under $10
+ Opa! Coffee & Wine Bar,4,495,Italian,under $10
+ Southside Flying Pizza,3.5,506,Italian,under $10
+ Hopfields,4,507,Italian,under $10
+ La Traviata,4,511,Italian,under $10
+ North Italia,4,520,Italian,under $10
+ Cedro Scratch Italian & Wine Bar,4,521,Italian,under $10
+ Alamo Drafthouse Cinema Slaughter Lane,3.5,531,Italian,under $10
+ Haymaker,3.5,537,Italian,under $10
+ Russo’s New York Pizzeria,3,538,Italian,under $10
+ Juniper,4.5,541,Italian,under $10
+ The Beer Plant,4,541,Italian,under $10
+ The Grove Wine Bar & Kitchen,4,547,Italian,under $10
+ Gourmands Neighborhood Pub,4,555,Italian,under $10
+ Hideaway Kitchen & Bar,4,557,Italian,under $10
+ Alamo Drafthouse Cinema Lakeline,3.5,557,Italian,under $10
+ Home Slice Pizza,4.5,560,Italian,under $10
+ Home Slice Pizza,4.5,560,Italian,under $10
+ Hecho En Mexico,4,564,Italian,under $10
+ Pluckers Wing Bar - Research,3.5,583,Italian,under $10
+ Pluckers Wing Bar - Research,3.5,583,Italian,under $10
+ Alamo Drafthouse Cinema Village,4,593,Italian,under $10
+ Irene’s,4,604,Italian,under $10
+ Citizen Eatery,4.5,607,Italian,under $10
+ Reale’s Italian Cafe,4,622,Italian,under $10
+ Flower Child,4,625,Italian,under $10
+ District Kitchen & Cocktails,4,635,Italian,under $10
+ Casa De Luz,4.5,637,Italian,under $10
+ Russian House,4,646,Italian,under $10
+ Russian House,4,646,Italian,under $10
+ Hyde Park Bar & Grill Central,3.5,659,Italian,under $10
+ Gabriela’s Downtown,4,664,Italian,under $10
+ Pinthouse Pizza,4.5,669,Italian,under $10
+ Via  Pizza,4.5,675,Italian,under $10
+ Corner,4,678,Italian,under $10
+ The Backspace,4,690,Italian,under $10
+ Yard House,4,701,Italian,under $10
+ Cover ,4,707,Italian,under $10
+ Juliet Italian Kitchen,4,715,Italian,under $10
+ French Quarter Grille,4.5,716,Italian,under $10
+ Garbo’s,4.5,720,Italian,under $10
+ Whip In,4,724,Italian,under $10
+ The Cheesecake Factory - Austin,3,726,Italian,under $10
+ Austin Beer Garden Brewing Company,4,742,Italian,under $10
+ Black Star Co-op Pub & Brewery,4,754,Italian,under $10
+ Picnik,4,758,Italian,under $10
+ Foreign & Domestic,4,759,Italian,under $10
+ Cypress Grill,4,763,Italian,under $10
+ Topgolf,4,770,Italian,under $10
+ Via  Pizza,4.5,775,Italian,under $10
+ Lin Asian Bar And Dim Sum,4,778,Italian,under $10
+ Ho Ho Chinese BBQ,3.5,782,Italian,under $10
+ Patrizi’s,4.5,790,Italian,under $10
+ Z’Tejas - Austin  STREET,3.5,794,Italian,under $10
+ Cherrywood Coffeehouse,4,806,Italian,under $10
+ Arpeggio Grill,4,807,Italian,under $10
+ Maggiano’s Little Italy,3.5,811,Italian,under $10
+ Santorini Cafe,4.5,820,Italian,under $10
+ DeSano Pizzeria Napoletana,4.5,838,Italian,under $10
+ Enoteca Vespaio,4,855,Italian,under $10
+ Halcyon,3.5,855,Italian,under $10
+ Quality Seafood Wholesale,3.5,868,Italian,under $10
+ Thai Fresh,3.5,887,Italian,under $10
+ Wu Chow,4,889,Italian,under $10
+ Wu Chow,4,889,Italian,under $10
+ Via  Pizza - Oak Hill,4.5,913,Italian,under $10
+ Hillside Farmacy,3.5,953,Italian,under $10
+ Chez Zee American Bistro,3.5,980,Italian,under $10
+ Taverna,3.5,1003,Italian,under $10
+ Parkside,4,1009,Italian,under $10
+ Mandola’s Italian,4,1011,Italian,under $10
+ SLAB BBQ & Beer,4.5,1063,Italian,under $10
+ Turf N Surf Po’ Boy,4.5,1106,Italian,under $10
+ Pinthouse Pizza,4,1119,Italian,under $10
+ Launderette,4,1185,Italian,under $10
+ Péché,4,1229,Italian,under $10
+ Whole Foods Market,4,1258,Italian,under $10
+ Casino El Camino,3.5,1284,Italian,under $10
+ North Italia,4,1403,Italian,under $10
+ Culinary Dropout,4,1486,Italian,under $10
+ Gourdough’s Public House,4,1654,Italian,under $10
+ Gourdough’s Public House,4,1654,Italian,under $10
+ Hopdoddy Burger Bar,4,1839,Italian,under $10
+ Lamberts Downtown Barbecue,4,1844,Italian,under $10
+ Lamberts Downtown Barbecue,4,1844,Italian,under $10
+ Bangers Sausage House & Beer Garden,4,2524,Italian,under $10
+ Moonshine Patio Bar & Grill,4.5,5150,Italian,under $10
+ Moonshine Patio Bar & Grill,4.5,5150,Italian,under $10
+ Marco’s Pizza,3,91,Italian,$11-$30
+ Edge Rooftop,4.5,97,Italian,$11-$30
+ Marco’s Pizza,3.5,97,Italian,$11-$30
+ Dia’s Market,4.5,98,Italian,$11-$30
+ Austin’s Pizza,3.5,99,Italian,$11-$30
+ Panera Bread,2.5,100,Italian,$11-$30
+ Whole Foods Market,3.5,100,Italian,$11-$30
+ MOD Pizza,4,101,Italian,$11-$30
+ Oddwood Ales,4.5,102,Italian,$11-$30
+ Con’ Olio Oils & Vinegars,5,108,Italian,$11-$30
+ REVUE,4,109,Italian,$11-$30
+ Panera Bread,2.5,109,Italian,$11-$30
+ Peoples Rx,4,110,Italian,$11-$30
+ Russo’s New York Pizzeria & Italian Kitchen - Austin,3.5,112,Italian,$11-$30
+ Beachside Billys,3,114,Italian,$11-$30
+ Beachside Billys,3,114,Italian,$11-$30
+ Snarf’s Sandwiches,3.5,115,Italian,$11-$30
+ The Happy Lobster Truck,4.5,116,Italian,$11-$30
+ Joes Italian Kitchen,4,121,Italian,$11-$30
+  Degrees Kitchen,4,127,Italian,$11-$30
+ Edis Chocolates,4.5,127,Italian,$11-$30
+ Applebee’s Grill  Bar,3,129,Italian,$11-$30
+ Modern Market,3.5,131,Italian,$11-$30
+ Southside Flying Pizza,3.5,131,Italian,$11-$30
+ Cannone Cucina Italiana,4.5,133,Italian,$11-$30
+ i Fratelli Pizza North - Austin,4.5,133,Italian,$11-$30
+ The Cupcake Bar,5,135,Italian,$11-$30
+ Woody’s Pizza,3,135,Italian,$11-$30
+ Woody’s Pizza,3,135,Italian,$11-$30
+ Little Woodrow’s Parmer Lane,3,138,Italian,$11-$30
+ Snap Kitchen,4.5,140,Italian,$11-$30
+ Austin Cake Ball,4,148,Italian,$11-$30
+ MAD Greens - South Austin,4,148,Italian,$11-$30
+ CAVA,4,150,Italian,$11-$30
+ Here Nor There,5,152,Italian,$11-$30
+ Aviator Pizza & Drafthouse- Parmer Lane,4,152,Italian,$11-$30
+ Aviator Pizza & Drafthouse- Parmer Lane,4,152,Italian,$11-$30
+ Panera Bread,2.5,153,Italian,$11-$30
+ Panera Bread,2.5,154,Italian,$11-$30
+ Bufalina Due,4,155,Italian,$11-$30
+ Snarf’s Sandwiches,3.5,156,Italian,$11-$30
+ The Butterfly Bar,4,157,Italian,$11-$30
+ Lakeside Pizza & Grill,3.5,158,Italian,$11-$30
+ Red Lobster,3,166,Italian,$11-$30
+ Johnny Carino’s,3,170,Italian,$11-$30
+ The Git Out,4.5,173,Italian,$11-$30
+ Revelry on the Boulevard,4.5,180,Italian,$11-$30
+ Salvation Pizza - Rainey Street,3.5,181,Italian,$11-$30
+ Marye’s Gourmet Pizza,4.5,182,Italian,$11-$30
+ The Growler Bar and Kitchen,4.5,183,Italian,$11-$30
+ Vic & Al’s,5,184,Italian,$11-$30
+ Cidercade Austin,4.5,186,Italian,$11-$30
+ SnowBall RiceBall,4,193,Italian,$11-$30
+ Salvation Pizza Kitchen and Bar - Rock Rose,2.5,196,Italian,$11-$30
+ Brooklyn Pie,3.5,201,Italian,$11-$30
+ ARTIPASTA,4.5,204,Italian,$11-$30
+ Urban,3.5,207,Italian,$11-$30
+ Urban,3.5,207,Italian,$11-$30
+ Li’l Nonna’s,4.5,211,Italian,$11-$30
+ Li’l Nonna’s,4.5,211,Italian,$11-$30
+ Olive Garden Italian Restaurant,3.5,216,Italian,$11-$30
+ Frost Gelato,4.5,217,Italian,$11-$30
+ Market Street Pizza,4.5,220,Italian,$11-$30
+ The Parlor,3.5,221,Italian,$11-$30
+ Johnny Carino’s,2.5,223,Italian,$11-$30
+ Conans Pizza South,3,224,Italian,$11-$30
+ Sprouts Farmers Market,3.5,225,Italian,$11-$30
+ Cucina On th,4,226,Italian,$11-$30
+ Sway,3.5,227,Italian,$11-$30
+ Pacific Star Restaurant & Oyster Bar,3,227,Italian,$11-$30
+ The Original Brooklyn Pie,3.5,233,Italian,$11-$30
+ Mouton’s Bistro & Bar,4,238,Italian,$11-$30
+ Annie’s Cafe and Bar,3,239,Italian,$11-$30
+ Flores Mexican Restaurant,3,239,Italian,$11-$30
+ East Side Pies,4,240,Italian,$11-$30
+ Olive Garden Italian Restaurant,2.5,242,Italian,$11-$30
+ DeSano Pizzeria Napoletana,4.5,243,Italian,$11-$30
+ Olive Garden Italian Restaurant,3,246,Italian,$11-$30
+ Whole Foods Market,3.5,246,Italian,$11-$30
+ Sweet Treets Bakery,4.5,247,Italian,$11-$30
+ Catfish Parlour,3.5,251,Italian,$11-$30
+ P,3.5,253,Italian,$11-$30
+  North,4.5,257,Italian,$11-$30
+ California Pizza Kitchen at The Domain,3,260,Italian,$11-$30
+ Carrabba’s Italian Grill,3.5,261,Italian,$11-$30
+ Gino’s Italian Cuisine,3.5,262,Italian,$11-$30
+ Salata,4.5,262,Italian,$11-$30
+ Aviary Wine & Kitchen,4.5,264,Italian,$11-$30
+ Nightcap,4,273,Italian,$11-$30
+ Nightcap,4,273,Italian,$11-$30
+ The Cheesecake Factory - Austin,3,283,Italian,$11-$30
+ Second Bar  Kitchen - Domain Northside,4,285,Italian,$11-$30
+ Nik’s Italian Kitchen  Bar,3.5,287,Italian,$11-$30
+ It’s Italian Cucina,4,289,Italian,$11-$30
+  UNO,4,292,Italian,$11-$30
+ Mister Tramps,4,296,Italian,$11-$30
+ Intero Restaurant,4.5,299,Italian,$11-$30
+ Cipollina,3.5,300,Italian,$11-$30
+ CRÚ Food & Wine Bar,3.5,304,Italian,$11-$30
+ Garbo’s Lobster Truck,4,304,Italian,$11-$30
+ Taverna,3.5,312,Italian,$11-$30
+ Mandola’s Italian,4,316,Italian,$11-$30
+ BackDraft Pizzeria,4.5,316,Italian,$11-$30
+ CRÚ Food & Wine Bar,3.5,318,Italian,$11-$30
+ Balkan Cafe & Grill,4.5,319,Italian,$11-$30
+ Bar Peached,4.5,321,Italian,$11-$30
+ SLAB BBQ & Beer,4.5,325,Italian,$11-$30
+ Baris Pasta & Pizza,3.5,328,Italian,$11-$30
+ Baker St Pub & Grill,3,328,Italian,$11-$30
+ The Grove Wine Bar & Kitchen,4,344,Italian,$11-$30
+ Seoulju Korean Kitchen & Bar,4.5,344,Italian,$11-$30
+ Tony C’s,4,346,Italian,$11-$30
+ Newk’s Eatery,4,350,Italian,$11-$30
+ Cover ,4,350,Italian,$11-$30
+ Sundancer Grill,4,359,Italian,$11-$30
+ Via  Pizza,4.5,359,Italian,$11-$30
+ Blaze Pizza,4,359,Italian,$11-$30
+ Aviator Pizza & Drafthouse,4,360,Italian,$11-$30
+ Satellite,3.5,362,Italian,$11-$30
+ Conans Pizza North,4,364,Italian,$11-$30
+ Siena Ristorante Toscana,3.5,367,Italian,$11-$30
+ Austin Terrier,4,370,Italian,$11-$30
+ June’s,4,375,Italian,$11-$30
+ The Tavern,3.5,379,Italian,$11-$30
+ Mia Italian Tapas & Bar,4,381,Italian,$11-$30
+ House Wine,4.5,384,Italian,$11-$30
+ Stuffed Cajun Meat Market,4,385,Italian,$11-$30
+ Quattro Gatti Ristorante e Pizzeria,3.5,388,Italian,$11-$30
+ Toss Pizzeria & Pub,4,388,Italian,$11-$30
+ Antonelli’s Cheese Shop,4.5,393,Italian,$11-$30
+ Whole Foods Market,4,397,Italian,$11-$30
+ Pour House Pints And Pies,4,399,Italian,$11-$30
+ Pour House Pints And Pies,4,399,Italian,$11-$30
+ Vinaigrette,4,401,Italian,$11-$30
+ Old Thousand,4,402,Italian,$11-$30
+ Mandola’s Italian,3.5,420,Italian,$11-$30
+ Gusto Italian Kitchen & Wine Bar,4,423,Italian,$11-$30
+ Alamo Drafthouse Cinema South Lamar,3.5,431,Italian,$11-$30
+ BJ’s Restaurant & Brewhouse,3,433,Italian,$11-$30
+ Pappadeaux Seafood Kitchen,3.5,438,Italian,$11-$30
+ Eurasia Sushi Bar & Seafood,4.5,445,Italian,$11-$30
+ Milano Cafe,4,447,Italian,$11-$30
+ ASTI Trattoria,3.5,447,Italian,$11-$30
+" Manolis Ice Cream, Pastries, & Cakes",5,450,Italian,$11-$30
+" Manolis Ice Cream, Pastries, & Cakes",5,450,Italian,$11-$30
+ Buca di Beppo Italian Restaurant,3,454,Italian,$11-$30
+ Peace Bakery and Deli,4.5,457,Italian,$11-$30
+ La Patisserie,4,458,Italian,$11-$30
+ The Rolling Rooster,4,464,Italian,$11-$30
+ Numero,4,486,Italian,$11-$30
+ Cosmic Coffee  Beer Garden,4.5,487,Italian,$11-$30
+ BJ’s Restaurant & Brewhouse,3,494,Italian,$11-$30
+ Opa! Coffee & Wine Bar,4,495,Italian,$11-$30
+ Opa! Coffee & Wine Bar,4,495,Italian,$11-$30
+ Southside Flying Pizza,3.5,506,Italian,$11-$30
+ Hopfields,4,507,Italian,$11-$30
+ La Traviata,4,511,Italian,$11-$30
+ North Italia,4,520,Italian,$11-$30
+ Cedro Scratch Italian & Wine Bar,4,521,Italian,$11-$30
+ Alamo Drafthouse Cinema Slaughter Lane,3.5,531,Italian,$11-$30
+ Haymaker,3.5,537,Italian,$11-$30
+ Russo’s New York Pizzeria,3,538,Italian,$11-$30
+ Juniper,4.5,541,Italian,$11-$30
+ The Beer Plant,4,541,Italian,$11-$30
+ The Grove Wine Bar & Kitchen,4,547,Italian,$11-$30
+ Gourmands Neighborhood Pub,4,555,Italian,$11-$30
+ Hideaway Kitchen & Bar,4,557,Italian,$11-$30
+ Alamo Drafthouse Cinema Lakeline,3.5,557,Italian,$11-$30
+ Home Slice Pizza,4.5,560,Italian,$11-$30
+ Home Slice Pizza,4.5,560,Italian,$11-$30
+ Hecho En Mexico,4,564,Italian,$11-$30
+ Pluckers Wing Bar - Research,3.5,583,Italian,$11-$30
+ Pluckers Wing Bar - Research,3.5,583,Italian,$11-$30
+ Alamo Drafthouse Cinema Village,4,593,Italian,$11-$30
+ Irene’s,4,604,Italian,$11-$30
+ Citizen Eatery,4.5,607,Italian,$11-$30
+ Reale’s Italian Cafe,4,622,Italian,$11-$30
+ Flower Child,4,625,Italian,$11-$30
+ District Kitchen & Cocktails,4,635,Italian,$11-$30
+ Casa De Luz,4.5,637,Italian,$11-$30
+ Russian House,4,646,Italian,$11-$30
+ Russian House,4,646,Italian,$11-$30
+ Hyde Park Bar & Grill Central,3.5,659,Italian,$11-$30
+ Gabriela’s Downtown,4,664,Italian,$11-$30
+ Pinthouse Pizza,4.5,669,Italian,$11-$30
+ Via  Pizza,4.5,675,Italian,$11-$30
+ Corner,4,678,Italian,$11-$30
+ The Backspace,4,690,Italian,$11-$30
+ Yard House,4,701,Italian,$11-$30
+ Cover ,4,707,Italian,$11-$30
+ Juliet Italian Kitchen,4,715,Italian,$11-$30
+ French Quarter Grille,4.5,716,Italian,$11-$30
+ Garbo’s,4.5,720,Italian,$11-$30
+ Whip In,4,724,Italian,$11-$30
+ The Cheesecake Factory - Austin,3,726,Italian,$11-$30
+ Austin Beer Garden Brewing Company,4,742,Italian,$11-$30
+ Black Star Co-op Pub & Brewery,4,754,Italian,$11-$30
+ Picnik,4,758,Italian,$11-$30
+ Foreign & Domestic,4,759,Italian,$11-$30
+ Cypress Grill,4,763,Italian,$11-$30
+ Topgolf,4,770,Italian,$11-$30
+ Via  Pizza,4.5,775,Italian,$11-$30
+ Lin Asian Bar And Dim Sum,4,778,Italian,$11-$30
+ Ho Ho Chinese BBQ,3.5,782,Italian,$11-$30
+ Patrizi’s,4.5,790,Italian,$11-$30
+ Z’Tejas - Austin  STREET,3.5,794,Italian,$11-$30
+ Cherrywood Coffeehouse,4,806,Italian,$11-$30
+ Arpeggio Grill,4,807,Italian,$11-$30
+ Maggiano’s Little Italy,3.5,811,Italian,$11-$30
+ Santorini Cafe,4.5,820,Italian,$11-$30
+ DeSano Pizzeria Napoletana,4.5,838,Italian,$11-$30
+ Enoteca Vespaio,4,855,Italian,$11-$30
+ Halcyon,3.5,855,Italian,$11-$30
+ Quality Seafood Wholesale,3.5,868,Italian,$11-$30
+ Thai Fresh,3.5,887,Italian,$11-$30
+ Wu Chow,4,889,Italian,$11-$30
+ Wu Chow,4,889,Italian,$11-$30
+ Via  Pizza - Oak Hill,4.5,913,Italian,$11-$30
+ Hillside Farmacy,3.5,953,Italian,$11-$30
+ Chez Zee American Bistro,3.5,980,Italian,$11-$30
+ Taverna,3.5,1003,Italian,$11-$30
+ Parkside,4,1009,Italian,$11-$30
+ Mandola’s Italian,4,1011,Italian,$11-$30
+ SLAB BBQ & Beer,4.5,1063,Italian,$11-$30
+ Turf N Surf Po’ Boy,4.5,1106,Italian,$11-$30
+ Pinthouse Pizza,4,1119,Italian,$11-$30
+ Launderette,4,1185,Italian,$11-$30
+ Péché,4,1229,Italian,$11-$30
+ Whole Foods Market,4,1258,Italian,$11-$30
+ Casino El Camino,3.5,1284,Italian,$11-$30
+ North Italia,4,1403,Italian,$11-$30
+ Culinary Dropout,4,1486,Italian,$11-$30
+ Gourdough’s Public House,4,1654,Italian,$11-$30
+ Gourdough’s Public House,4,1654,Italian,$11-$30
+ Hopdoddy Burger Bar,4,1839,Italian,$11-$30
+ Lamberts Downtown Barbecue,4,1844,Italian,$11-$30
+ Lamberts Downtown Barbecue,4,1844,Italian,$11-$30
+ Bangers Sausage House & Beer Garden,4,2524,Italian,$11-$30
+ Moonshine Patio Bar & Grill,4.5,5150,Italian,$11-$30
+ Moonshine Patio Bar & Grill,4.5,5150,Italian,$11-$30
+ United Club,3,37,Italian,$31-$60
+ Visconti Ristorante & Bar,3.5,43,Italian,$31-$60
+ Codependent Cocktails  Coffee,3.5,86,Italian,$31-$60
+ Sammie’s Italian,3.5,104,Italian,$31-$60
+ Devil May Care,4.5,118,Italian,$31-$60
+ Juliet Italian Kitchen,3.5,134,Italian,$31-$60
+ Plate By Dzintra,4,194,Italian,$31-$60
+ Rosewood,4.5,217,Italian,$31-$60
+ Perry’s Steakhouse & Grille - Northside,3.5,300,Italian,$31-$60
+ Arlo Grey by Kristen Kish,4,320,Italian,$31-$60
+ Il Brutto,4,344,Italian,$31-$60
+ The Capital Grille,4,362,Italian,$31-$60
+ Fleming’s Prime Steakhouse & Wine Bar,4,371,Italian,$31-$60
+ Gino’s Vino Osteria,4.5,381,Italian,$31-$60
+ L’Oca d’Oro,4,401,Italian,$31-$60
+ Soto South Lamar,4,431,Italian,$31-$60
+ Andiamo Ristorante,4,454,Italian,$31-$60
+ Olamaie,4,455,Italian,$31-$60
+ Fukumoto Sushi & Yakitori,4.5,498,Italian,$31-$60
+ Lenoir,4,503,Italian,$31-$60
+ Eddie V’s Prime Seafood,4.5,527,Italian,$31-$60
+ Eberly,4,549,Italian,$31-$60
+ The Roosevelt Room,4.5,581,Italian,$31-$60
+ Vespaio Ristorante,4,606,Italian,$31-$60
+ ALC Steaks,4,611,Italian,$31-$60
+ Truluck’s Ocean’s Finest Seafood & Crab,4.5,616,Italian,$31-$60
+ Olive & June,4,643,Italian,$31-$60
+ Clark’s Oyster Bar,4,665,Italian,$31-$60
+ Musashino Sushi Dokoro,4,728,Italian,$31-$60
+ Wink,4,795,Italian,$31-$60
+ Fixe Austin’s Southern House,4,798,Italian,$31-$60
+ Bartlett’s,4,823,Italian,$31-$60
+ Pappadeaux Seafood Kitchen,4,832,Italian,$31-$60
+ Red Ash,4.5,916,Italian,$31-$60
+ Truluck’s Ocean’s Finest Seafood & Crab,4.5,921,Italian,$31-$60
+ Fonda San Miguel,4,966,Italian,$31-$60
+ Barley Swine,4.5,1134,Italian,$31-$60
+ Justine’s Brasserie,4,1163,Italian,$31-$60
+ Eddie V’s Prime Seafood,4.5,1223,Italian,$31-$60
+ Perry’s Steakhouse & Grille - Downtown Austin,4,1250,Italian,$31-$60
+ Perla’s,4,1697,Italian,$31-$60
+ Odd Duck,4.5,1900,Italian,$31-$60
+ Delysia Chocolatier,4.5,43,Italian,over $61
+ J Carver’s,4,65,Italian,over $61
+ Ruth’s Chris Steak House,3.5,393,Italian,over $61
+ Lolita La Tampiqueña,4,17,Mexican,under $10
+ La Sabroza,4.5,18,Mexican,under $10
+ Kings Taqueria Y Mas,5,18,Mexican,under $10
+ Taqueria La Escondida ,3.5,19,Mexican,under $10
+ Rico’s Tacos,5,19,Mexican,under $10
+ Rico’s Tacos,5,19,Mexican,under $10
+ Nonos Tacos,5,21,Mexican,under $10
+ El Perrito,5,21,Mexican,under $10
+ El Pollo Rico,4,21,Mexican,under $10
+ Taquitos Michoacanos,4.5,22,Mexican,under $10
+ OneTaco Taquería,3,22,Mexican,under $10
+ That Taco Stand,4.5,22,Mexican,under $10
+ El Tizon Del Chef,4.5,23,Mexican,under $10
+ El Pollo Rico,3.5,24,Mexican,under $10
+ Tortilleria La Sabrocita,3.5,25,Mexican,under $10
+ Crazy Fruits Riverside,3.5,26,Mexican,under $10
+ Aguilera’s Mexican Restaurant,4,27,Mexican,under $10
+ Taqueria La Libertad,4.5,27,Mexican,under $10
+ Buddy’s Mexican Grill,3.5,27,Mexican,under $10
+ Dos Amigos Mexican Food,4.5,28,Mexican,under $10
+ OneTaco,4,29,Mexican,under $10
+ Taco Bell,2,30,Mexican,under $10
+ Taqueria Gardenia,4.5,31,Mexican,under $10
+ Jefes Street Tacos,4.5,31,Mexican,under $10
+ La Placita,4.5,31,Mexican,under $10
+ Don Juan,4,31,Mexican,under $10
+ El Rinconcito Del Sabor,4,32,Mexican,under $10
+ Tamale Addiction,4,32,Mexican,under $10
+ Taqueria Montenegro,4.5,33,Mexican,under $10
+ El Super Taco,4.5,33,Mexican,under $10
+ Mí Casa Market,3.5,33,Mexican,under $10
+ Taco Bell,1.5,33,Mexican,under $10
+ Pollos Asados El norteño #,4.5,34,Mexican,under $10
+ Rita’s Mexican Restaurant,3.5,34,Mexican,under $10
+ Taqueria Jessica,5,34,Mexican,under $10
+ La Chapala,3.5,35,Mexican,under $10
+ Taqueria Lopez,4.5,35,Mexican,under $10
+ De Nada Tacos,4,36,Mexican,under $10
+ Papa Joe’s Tex-Mex,4.5,37,Mexican,under $10
+ Las Tocallitas,5,37,Mexican,under $10
+ Cilantro’s,3.5,37,Mexican,under $10
+ La Traila,4.5,37,Mexican,under $10
+ Tacos y Pupusas Los Ramos,4,37,Mexican,under $10
+ Taco Bell,2,37,Mexican,under $10
+ Secretodela Abuela ,4,38,Mexican,under $10
+ Taco Bell,2,38,Mexican,under $10
+ Taquerias Arandinas,3,39,Mexican,under $10
+ Oye Taquito,4.5,40,Mexican,under $10
+ La Flor,4.5,42,Mexican,under $10
+ Casita Nicole Antojitos Mexicanos,5,43,Mexican,under $10
+ Granny’s Tacos,4.5,43,Mexican,under $10
+ La Traila at Mesa,4.5,43,Mexican,under $10
+ Chicken Bowl,4,43,Mexican,under $10
+ Taco Aranda,4,43,Mexican,under $10
+ Taqueria Anyeli,5,44,Mexican,under $10
+ Tortilleria Krystal,3,44,Mexican,under $10
+ Taqueria  Estrellas,3.5,45,Mexican,under $10
+ Las Fabulosas Quesadillas,3.5,46,Mexican,under $10
+ Taco Bell,2.5,46,Mexican,under $10
+ Beto’s Mexican Restaurant,4,47,Mexican,under $10
+ El Pollo Rico,3,47,Mexican,under $10
+ Jefes Tacos & Catering,4,48,Mexican,under $10
+ Rosarito,4,48,Mexican,under $10
+ Taco Shack,3,48,Mexican,under $10
+ Tortilleria Rio Grande,3.5,49,Mexican,under $10
+ La Fogata’s China Kitchen,4,49,Mexican,under $10
+ Taco Palenque Round Rock,3.5,50,Mexican,under $10
+ Taco-Miendo,4.5,51,Mexican,under $10
+ Taco Bella’s,4.5,51,Mexican,under $10
+ Crazy Fruits,4,51,Mexican,under $10
+ Taco Bell,2,51,Mexican,under $10
+ Veracruz All Natural,4,53,Mexican,under $10
+ Taco Shack,3,53,Mexican,under $10
+ Taco Bell,2,53,Mexican,under $10
+ Taquerias Arandinas,3.5,54,Mexican,under $10
+ Tacos Durango,4,54,Mexican,under $10
+ La Peña,4,55,Mexican,under $10
+ El Michoacano Mexican Restaurant,4,56,Mexican,under $10
+ ALLI Mexican Cuisine,4.5,57,Mexican,under $10
+ Taqueria Vallarta,3.5,57,Mexican,under $10
+ El Pollo Rico,3.5,57,Mexican,under $10
+ Tacaso El Amigo,4.5,59,Mexican,under $10
+ Taqueria La Escondida,4,59,Mexican,under $10
+ El Pollo Rico,4,59,Mexican,under $10
+ La Casita,3.5,60,Mexican,under $10
+ Tutty Frutty,4,60,Mexican,under $10
+ Mariana’s Kitchen,3.5,61,Mexican,under $10
+ Taco Bell,2,62,Mexican,under $10
+ Chipotle Mexican Grill,3.5,62,Mexican,under $10
+ Taqueria La Canaria,4.5,64,Mexican,under $10
+ Casa Linda Taqueria,4.5,65,Mexican,under $10
+ Chipotle Mexican Grill,3.5,65,Mexican,under $10
+ Brazas Taco House,4.5,67,Mexican,under $10
+ Tacos Ivan,4.5,67,Mexican,under $10
+ Paprika ATX,5,67,Mexican,under $10
+ Chipotle Mexican Grill,3.5,67,Mexican,under $10
+ Matamoros Tacos,4.5,68,Mexican,under $10
+ Juana Taco,3.5,68,Mexican,under $10
+ Chipotle Mexican Grill,2.5,68,Mexican,under $10
+ Taco Bell,2,70,Mexican,under $10
+ Trippy Tacos,5,71,Mexican,under $10
+ Amigo’s BBQ Grill,4,71,Mexican,under $10
+ Dave’s Tacos,4.5,72,Mexican,under $10
+ Taco Brother,4.5,74,Mexican,under $10
+ El Secreto De Abuela,4,76,Mexican,under $10
+ Taquito Aviles,4.5,76,Mexican,under $10
+ Tacos Y Tortas El Chilango,4.5,77,Mexican,under $10
+ Taco Cabana,2,78,Mexican,under $10
+ Taqueria Morelos,4.5,80,Mexican,under $10
+ Try Hard Coffee Roasters,5,80,Mexican,under $10
+ Casa Vallarta,4,81,Mexican,under $10
+ Tacos Las Amazonas,4.5,81,Mexican,under $10
+ Bomb Tacos,3,81,Mexican,under $10
+ Mami’s Taco’s,4.5,81,Mexican,under $10
+ Yucatan Tacos And More,5,87,Mexican,under $10
+ Cuantos Tacos,5,90,Mexican,under $10
+ Taqueria Guadalajara,3.5,91,Mexican,under $10
+ San Juanita Tacos,4,91,Mexican,under $10
+ Chipotle Mexican Grill,3,91,Mexican,under $10
+ Taqueria Los Altos,4,92,Mexican,under $10
+ Costa Del Sol Restaurant,3.5,95,Mexican,under $10
+ Marcelino’s,4.5,96,Mexican,under $10
+ Casa Moreno’s,3,96,Mexican,under $10
+ El Chilito,3.5,96,Mexican,under $10
+ Ramos Restaurant and Sports Bar,3,97,Mexican,under $10
+ OneTaco,4,98,Mexican,under $10
+ Papalote Taco House,4,98,Mexican,under $10
+ Sabor Tapatio,4.5,103,Mexican,under $10
+ Tacodeli,4,104,Mexican,under $10
+ South Austin Trailer Park & Eatery,4,105,Mexican,under $10
+ Pollo Regio,4.5,108,Mexican,under $10
+ Taco Cabana,2,110,Mexican,under $10
+ Taco Baby,4,112,Mexican,under $10
+ Mi Tradicion,4,114,Mexican,under $10
+ Pueblo Viejo Traila,4,117,Mexican,under $10
+ Capital Taco,4.5,117,Mexican,under $10
+ Taqueria La Familia Mexican Restaurant,3.5,118,Mexican,under $10
+ Taqueria Arandas,4,119,Mexican,under $10
+ Super Burrito at the Water Tank,4,119,Mexican,under $10
+ Super Burrito on th,3.5,121,Mexican,under $10
+ Taco Cabana,2,123,Mexican,under $10
+ Taqueria Arandas,4,124,Mexican,under $10
+ Tortillería Río Grande,4,125,Mexican,under $10
+ Taco Cabana,2,128,Mexican,under $10
+ La Tunita ,5,130,Mexican,under $10
+ Taqueria Mi Trailita,4.5,131,Mexican,under $10
+ Vazquez Restaurant,4,132,Mexican,under $10
+ La Fruta Feliz,4.5,136,Mexican,under $10
+ Taqueria Chapala,4,136,Mexican,under $10
+ El Tacorrido,3.5,137,Mexican,under $10
+ Taquerias Arandinas,4,139,Mexican,under $10
+ Los Jaliscienses,4,140,Mexican,under $10
+ Tacos Guerrero,4.5,144,Mexican,under $10
+ Taco Cabana,2,145,Mexican,under $10
+ Freebirds World Burrito,3.5,147,Mexican,under $10
+ Burrito Factory,4.5,148,Mexican,under $10
+ Chipotle Mexican Grill,3.5,151,Mexican,under $10
+ Taco Cabana,2,151,Mexican,under $10
+ Cabo Bob’s Burritos,4,155,Mexican,under $10
+ Taqueria Los Jaliscienses,4,156,Mexican,under $10
+ Little Mexico Restaurant,3.5,157,Mexican,under $10
+ El Faro Mexican Food,4,160,Mexican,under $10
+ Taco Cabana,1.5,164,Mexican,under $10
+ La Casita,3.5,166,Mexican,under $10
+ One Taco,3.5,167,Mexican,under $10
+ ñoños tacos,4.5,168,Mexican,under $10
+ Vazquez Restaurant,4,174,Mexican,under $10
+ Taquerias Arandinas,3.5,174,Mexican,under $10
+ Taqueria Chapala #,4,175,Mexican,under $10
+ El Tacorrido,4,179,Mexican,under $10
+ Rosa’s Café & Tortilla Factory,3,181,Mexican,under $10
+ El Pollo Rico,4.5,183,Mexican,under $10
+ Taqueria Guadalajara,3.5,188,Mexican,under $10
+ Taco-Mex,4.5,189,Mexican,under $10
+ Vaquero Taquero,4.5,192,Mexican,under $10
+ Tacodeli,4,193,Mexican,under $10
+ Freebirds World Burrito,3.5,196,Mexican,under $10
+ El Huarache,4,197,Mexican,under $10
+ Vazquez Restaurant,4,197,Mexican,under $10
+ Rosie’s Tamale House,3.5,202,Mexican,under $10
+ Taqueria Morales,4.5,207,Mexican,under $10
+ Angie’s Mexican Restaurant,3,207,Mexican,under $10
+ Top Taco,4.5,208,Mexican,under $10
+ Freebirds World Burrito,3.5,209,Mexican,under $10
+ Kesos Tacos,4,211,Mexican,under $10
+ El Chilito,3.5,220,Mexican,under $10
+ Freebirds World Burrito,3.5,234,Mexican,under $10
+ Zuzu Handmade Mexican Food,3.5,237,Mexican,under $10
+ La Tapatia,3,237,Mexican,under $10
+ Taco More - Austin,4,239,Mexican,under $10
+ Papalote Taco House,4,247,Mexican,under $10
+ Macho Taco,4.5,252,Mexican,under $10
+ Yummi Tacos & More,4,253,Mexican,under $10
+ Pflugerville Taco House,4.5,257,Mexican,under $10
+ La Posada Mexican Restaurant,4,261,Mexican,under $10
+ Taqueria Arandas,3.5,261,Mexican,under $10
+ El Primo,4.5,262,Mexican,under $10
+ Ken’s Subs Tacos & More,4,264,Mexican,under $10
+ Cheko’s,3.5,265,Mexican,under $10
+ Mi Ranchito Taqueria,4.5,271,Mexican,under $10
+ Torchy’s Tacos,4,283,Mexican,under $10
+ Mr Natural,3.5,288,Mexican,under $10
+ El Caribe Mexican Restaurant,3.5,289,Mexican,under $10
+ El Rincon,3,292,Mexican,under $10
+ Casa Maria,4,300,Mexican,under $10
+ Texas Honey Ham Company,4.5,317,Mexican,under $10
+ Con Madre Kitchen,4.5,321,Mexican,under $10
+ El Borrego De Oro,4,332,Mexican,under $10
+ Taco More,4.5,354,Mexican,under $10
+ Veracruz All Natural,4,359,Mexican,under $10
+ Mi Tradición,4.5,367,Mexican,under $10
+ La Cocina de Consuelo,4,387,Mexican,under $10
+ Joe’s Bakery & Coffee Shop,4,390,Mexican,under $10
+ El Tacorrido,3.5,403,Mexican,under $10
+ Onetaco - an Urban Taqueria,4,407,Mexican,under $10
+ Las Trancas,4.5,425,Mexican,under $10
+ Veracruz All Natural,4,432,Mexican,under $10
+ Granny’s Tacos,5,436,Mexican,under $10
+ T-Loc’s Sonora Hot Dogs,5,457,Mexican,under $10
+ Taco Joint,4.5,463,Mexican,under $10
+ Cabo Bob’s Burritos,4.5,465,Mexican,under $10
+ El Taquito,4,466,Mexican,under $10
+ Torchy’s Tacos,3.5,480,Mexican,under $10
+ Rosita’s al Pastor,4,494,Mexican,under $10
+ Dos Batos,4,497,Mexican,under $10
+ Lazarus Brewing,4.5,498,Mexican,under $10
+ Taco Joint,4.5,507,Mexican,under $10
+ Torchy’s Tacos,4,527,Mexican,under $10
+ Pueblo Viejo,4.5,538,Mexican,under $10
+ Papalote Taco House,4.5,595,Mexican,under $10
+ Torchy’s Tacos,4,652,Mexican,under $10
+ Habanero Mexican Cafe,4,682,Mexican,under $10
+ Cabo Bob’s Burritos,4.5,857,Mexican,under $10
+ Torchy’s Tacos,4,889,Mexican,under $10
+ Tyson’s Tacos,4,895,Mexican,under $10
+ Torchy’s Tacos,4,913,Mexican,under $10
+ Torchy’s Tacos,4,918,Mexican,under $10
+ Veracruz All Natural,4.5,952,Mexican,under $10
+ Tacodeli,4,1018,Mexican,under $10
+ Tacodeli,4.5,1073,Mexican,under $10
+ Food Fight Cafe,4,2,Mexican,$11-$30
+ Airport Xpress Market,4,4,Mexican,$11-$30
+ Daygos San Diego Taco Shop,5,8,Mexican,$11-$30
+ Casa Jaliscienses,2.5,8,Mexican,$11-$30
+ La Moreliana,3.5,11,Mexican,$11-$30
+ Soco Bar & Bites,4,13,Mexican,$11-$30
+ JDs Tacos,4.5,13,Mexican,$11-$30
+ Eighteenth Over Austin,3,13,Mexican,$11-$30
+ Curra’s Hyde Park,4.5,18,Mexican,$11-$30
+ Mi Cabana,3.5,20,Mexican,$11-$30
+ Marisco Grill,3.5,22,Mexican,$11-$30
+ La Sirena,3.5,22,Mexican,$11-$30
+ Los Potrillos,3,22,Mexican,$11-$30
+ El Norteno Pollos Asados,4.5,35,Mexican,$11-$30
+ Aleida’s Restaurant,4.5,36,Mexican,$11-$30
+ Techo Mezcaleria & Agave Bar,4.5,42,Mexican,$11-$30
+ Los Jarochos,2.5,44,Mexican,$11-$30
+ Ma’Coco,4.5,46,Mexican,$11-$30
+ Mariscos Tampico Bar & Grill,2.5,46,Mexican,$11-$30
+ Casa Arandinas Mexican bar & Grill,3,48,Mexican,$11-$30
+ La Holly,4,55,Mexican,$11-$30
+ La Catedral Del Marisco #,2,55,Mexican,$11-$30
+ Las Perlas,4.5,58,Mexican,$11-$30
+ Mariscos Los Jarochos,2.5,61,Mexican,$11-$30
+ Earl Campbell’s Food Truck,2.5,63,Mexican,$11-$30
+  Rabbits Bar,3.5,79,Mexican,$11-$30
+ La Feria Mexican Restaurant,3.5,82,Mexican,$11-$30
+ Flavia’s Kitchen,5,84,Mexican,$11-$30
+ Nissi VegMex Vegan Mexican Cuisine,4.5,87,Mexican,$11-$30
+ Las Cazuelas Mexican Restaurant #,2,89,Mexican,$11-$30
+ Texas Ranch BBQ,4.5,91,Mexican,$11-$30
+ Las Abuelas,5,109,Mexican,$11-$30
+ Los Comales Mexican Restaurant,3.5,120,Mexican,$11-$30
+ Casa Garcia’s,3.5,124,Mexican,$11-$30
+ Jasmine’s Restaurant,4.5,125,Mexican,$11-$30
+ De Nada Cantina,4.5,126,Mexican,$11-$30
+ Los Pinos,3,132,Mexican,$11-$30
+ Amaya’s Taco Village,3.5,136,Mexican,$11-$30
+ Dos Salsas,3.5,142,Mexican,$11-$30
+ Pepe’s Tacos,4.5,146,Mexican,$11-$30
+ Los Reyes Mexican Grill,3,147,Mexican,$11-$30
+ Gabrielas South Austin,3.5,154,Mexican,$11-$30
+ Nixta Taqueria,4.5,155,Mexican,$11-$30
+ Casa Arandinas,3.5,157,Mexican,$11-$30
+ La Palapa Restaurant & Cantina,3,158,Mexican,$11-$30
+ The Peached Tortilla,4,158,Mexican,$11-$30
+ Tres Amigos,3.5,174,Mexican,$11-$30
+ Baby Acapulco,3,174,Mexican,$11-$30
+ Oz Tap House,4,179,Mexican,$11-$30
+ Torchy’s Tacos,2.5,182,Mexican,$11-$30
+ Los Pinos Mexican,3.5,185,Mexican,$11-$30
+ Polvo’s DT,3,188,Mexican,$11-$30
+ Veracruz All Natural,4,197,Mexican,$11-$30
+ Las Palomas Restaurant & Bar,3.5,198,Mexican,$11-$30
+ Cenote,4,198,Mexican,$11-$30
+ Camino Real Restaurant,4,199,Mexican,$11-$30
+ El Taquito Urbano,3.5,200,Mexican,$11-$30
+ Velvet Taco,4.5,207,Mexican,$11-$30
+ Wilder Wood Restaurant & Bar,4,207,Mexican,$11-$30
+ Serranos,3.5,231,Mexican,$11-$30
+ Vaquero’s Cafe and Cantina,3.5,233,Mexican,$11-$30
+ Azul Tequila,3.5,236,Mexican,$11-$30
+ Tacodeli,4.5,236,Mexican,$11-$30
+ El Nuevo Mexico- Austin,4,238,Mexican,$11-$30
+ Flores Mexican Restaurant,3,239,Mexican,$11-$30
+ Don Mario Mexican Restaurant,4,255,Mexican,$11-$30
+ Flores Mexican Restaurant,3,258,Mexican,$11-$30
+ Jalisco’s Restaurant and Bar,3,273,Mexican,$11-$30
+ Cruzteca Mexican Kitchen,4.5,275,Mexican,$11-$30
+ Serranos,3.5,276,Mexican,$11-$30
+ Ramos Tex-Mex Restaurant #,4,287,Mexican,$11-$30
+ Micheladas Cafe y Cantina,3,289,Mexican,$11-$30
+ Texican Cafe - Manchaca,3.5,302,Mexican,$11-$30
+ Santa Rita Tex-Mex Cantina,3,315,Mexican,$11-$30
+ Serranos,3.5,315,Mexican,$11-$30
+ Lupe Tortilla,3.5,316,Mexican,$11-$30
+ Maudie’s North Lamar,3.5,318,Mexican,$11-$30
+ Torchy’s Tacos,2.5,330,Mexican,$11-$30
+ Rio Grande Tex-Mex Restaurant,3.5,332,Mexican,$11-$30
+ Cisco’s Restaurant Bakery & Bar,4,334,Mexican,$11-$30
+ Don Dario’s,3,334,Mexican,$11-$30
+ Maudie’s Hill Country,3,338,Mexican,$11-$30
+ Cielito Lindo Mexican Cuisine,4.5,353,Mexican,$11-$30
+ Grizzelda’s,3.5,357,Mexican,$11-$30
+ El Mesón,3.5,357,Mexican,$11-$30
+ Sazón,4,366,Mexican,$11-$30
+ Las Cazuelas Mexican Restaurant,3.5,384,Mexican,$11-$30
+ La Mancha,3.5,388,Mexican,$11-$30
+ Azul Tequila,3.5,388,Mexican,$11-$30
+ Gloria’s Latin Cuisine,3.5,389,Mexican,$11-$30
+ Casa Garcia’s,3.5,390,Mexican,$11-$30
+ Baby Acapulco,3,391,Mexican,$11-$30
+ Casa Garcia’s,3.5,398,Mexican,$11-$30
+ Julio’s Café,4,399,Mexican,$11-$30
+ Fresa’s Chicken al Carbon,3.5,428,Mexican,$11-$30
+ Baby Acapulco,3,432,Mexican,$11-$30
+ Chuy’s,4,436,Mexican,$11-$30
+ Texican Cafe - Lakeline,3.5,444,Mexican,$11-$30
+ Taquero Mucho,3.5,452,Mexican,$11-$30
+ Chupacabra Cantina Y Tacqueria,3.5,462,Mexican,$11-$30
+ Austin Taco Project,3.5,463,Mexican,$11-$30
+ El Chile Café Y Cantina,3.5,469,Mexican,$11-$30
+ Taco Flats,4,475,Mexican,$11-$30
+ Chuy’s,3.5,478,Mexican,$11-$30
+ Pelons Tex-Mex,3.5,479,Mexican,$11-$30
+ Tamale House East,3.5,483,Mexican,$11-$30
+ El Arroyo th Street,2.5,498,Mexican,$11-$30
+ Manuel’s,3.5,505,Mexican,$11-$30
+ Torchy’s Tacos,4,511,Mexican,$11-$30
+ Jardin Corona,3.5,527,Mexican,$11-$30
+ Fresa’s - South st,3.5,536,Mexican,$11-$30
+ Amaya’s Taco Village,3.5,537,Mexican,$11-$30
+ Hecho En Mexico,4,564,Mexican,$11-$30
+ FoodHeads,4.5,575,Mexican,$11-$30
+ Baby Acapulco,3.5,606,Mexican,$11-$30
+ Paco’s Tacos,4,623,Mexican,$11-$30
+ Casa Chapala Mexican Cuisine & Tequila Bar,4,636,Mexican,$11-$30
+ Morelia Mexican Grill,2.5,636,Mexican,$11-$30
+ Eldorado Cafe,4.5,638,Mexican,$11-$30
+ Gabriela’s Downtown,4,664,Mexican,$11-$30
+ Licha’s Cantina,4,668,Mexican,$11-$30
+ The Park At The Domain,3,696,Mexican,$11-$30
+ Tacodeli,4,699,Mexican,$11-$30
+ Lupe Tortilla,3.5,718,Mexican,$11-$30
+ Torchy’s Tacos,3.5,760,Mexican,$11-$30
+ Z’Tejas - Austin  STREET,3.5,794,Mexican,$11-$30
+ Velvet Taco,4,794,Mexican,$11-$30
+ Gloria’s Latin Cuisine,3.5,829,Mexican,$11-$30
+ Chuy’s,4,855,Mexican,$11-$30
+ Punch Bowl Social Austin,3.5,922,Mexican,$11-$30
+ El Alma,4,1021,Mexican,$11-$30
+ Chuy’s,4,1079,Mexican,$11-$30
+ Curra’s Grill,3.5,1170,Mexican,$11-$30
+ Iron Cactus Mexican Restaurant and Margarita Bar,3.5,1205,Mexican,$11-$30
+ La Condesa,3.5,1445,Mexican,$11-$30
+ Matt’s El Rancho,3.5,1479,Mexican,$11-$30
+ Polvos South,3.5,1509,Mexican,$11-$30
+ Güero’s Taco Bar,3,1751,Mexican,$11-$30
+ Hula Hut,3.5,1803,Mexican,$11-$30
+ Juan In A Million,4,2021,Mexican,$11-$30
+ Franklin Barbecue,4.5,5256,Mexican,$11-$30
+ El Naranjo South Lamar,4,78,Mexican,$31-$60
+ Comedor,4,311,Mexican,$31-$60
+ ATX Cocina,4,478,Mexican,$31-$60
+ Suerte,4.5,683,Mexican,$31-$60
+ Fonda San Miguel,4,966,Mexican,$31-$60
+ Lynx Grill & Bar,3,3,Steakhouse,$11-$30
+ Counter Cafe West Campus,3.5,33,Steakhouse,$11-$30
+ Hopdoddy Burger Bar,4,40,Steakhouse,$11-$30
+ BBG’s,3.5,56,Steakhouse,$11-$30
+ Johnny G’s Meat Market,4,62,Steakhouse,$11-$30
+ Hanovers ,3,67,Steakhouse,$11-$30
+ Espadas de Brazil,4.5,72,Steakhouse,$11-$30
+ Chili’s,3,74,Steakhouse,$11-$30
+ Applebee’s Grill  Bar,3,78,Steakhouse,$11-$30
+ Saltgrass Steak House,3.5,78,Steakhouse,$11-$30
+ Provision - Temp CLOSED,4,83,Steakhouse,$11-$30
+ Golden Corral Buffet & Grill,3,85,Steakhouse,$11-$30
+ The Aristocrat Lounge,3,95,Steakhouse,$11-$30
+ Rustic Tap,3.5,96,Steakhouse,$11-$30
+ Goodall’s,3.5,103,Steakhouse,$11-$30
+ Knotty Deck & Bar,4,109,Steakhouse,$11-$30
+ REVUE,4,109,Steakhouse,$11-$30
+ Red Robin Gourmet Burgers and Brews,3,110,Steakhouse,$11-$30
+ Star Bar,3.5,118,Steakhouse,$11-$30
+ The Original Hoffbrau,3.5,144,Steakhouse,$11-$30
+ Courtyard by Marriott Austin Downtown/Convention Center,3.5,147,Steakhouse,$11-$30
+ Chili’s,2.5,147,Steakhouse,$11-$30
+ Central Market Cafe,3,151,Steakhouse,$11-$30
+ Red Lobster,3,156,Steakhouse,$11-$30
+ LongHorn Steakhouse,3.5,158,Steakhouse,$11-$30
+ Backspin Texas Sports Bar & Grill,3.5,164,Steakhouse,$11-$30
+  Degrees Rooftop,2.5,166,Steakhouse,$11-$30
+ Springhill Restaurant,3.5,172,Steakhouse,$11-$30
+ Golden Corral Buffet & Grill,2.5,182,Steakhouse,$11-$30
+ The Dogwood,3.5,183,Steakhouse,$11-$30
+ Aussie’s Grill & Beach Bar,3,187,Steakhouse,$11-$30
+ LongHorn Steakhouse,3.5,189,Steakhouse,$11-$30
+ True Food Kitchen,4,198,Steakhouse,$11-$30
+ Lil’Doddy Burger Lab,3.5,205,Steakhouse,$11-$30
+ Urban,3.5,207,Steakhouse,$11-$30
+ Way South Philly Deli,4.5,208,Steakhouse,$11-$30
+ Maki Toki,3.5,212,Steakhouse,$11-$30
+ Texas Land & Cattle,2.5,213,Steakhouse,$11-$30
+ Sway,3.5,227,Steakhouse,$11-$30
+ Maggiore’s,3.5,228,Steakhouse,$11-$30
+ Vaquero’s Cafe and Cantina,3.5,233,Steakhouse,$11-$30
+ Red Lobster,2.5,234,Steakhouse,$11-$30
+ Outback Steakhouse,3,248,Steakhouse,$11-$30
+ Fujiyama Japanese Steakhouse,3.5,257,Steakhouse,$11-$30
+ Speakeasy,3.5,258,Steakhouse,$11-$30
+ Carrabba’s Italian Grill,3.5,261,Steakhouse,$11-$30
+ Nagoya Steak and Sushi,3.5,266,Steakhouse,$11-$30
+ LongHorn Steakhouse,3.5,270,Steakhouse,$11-$30
+ Nightcap,4,273,Steakhouse,$11-$30
+ Cheddar’s Scratch Kitchen,3,277,Steakhouse,$11-$30
+ Schmidt Family Barbecue,3.5,279,Steakhouse,$11-$30
+ Le Politique - Temp CLOSED,3.5,287,Steakhouse,$11-$30
+ Mister Tramps,4,296,Steakhouse,$11-$30
+ Cafe Blue - Downtown,3.5,302,Steakhouse,$11-$30
+ Bombshells Restaurant & Bar,2.5,305,Steakhouse,$11-$30
+ Texas Roadhouse,3.5,310,Steakhouse,$11-$30
+ Sushi Japon & Hibachi Grill,3.5,310,Steakhouse,$11-$30
+ Hopdoddy Burger Bar,3.5,310,Steakhouse,$11-$30
+ Buenos Aires Cafe,3.5,319,Steakhouse,$11-$30
+ Chisos Grill,4,323,Steakhouse,$11-$30
+ Tokyo Steak House and Sushi Bar,3.5,325,Steakhouse,$11-$30
+ Iron Fish Sushi & Grill,4.5,341,Steakhouse,$11-$30
+ Seoulju Korean Kitchen & Bar,4.5,344,Steakhouse,$11-$30
+ Saltgrass Steak House,3.5,349,Steakhouse,$11-$30
+ Ski Shores Cafe,3,349,Steakhouse,$11-$30
+ Shogun Japanese Grill & Sushi Bar,3,353,Steakhouse,$11-$30
+ Fresh Heim,4.5,359,Steakhouse,$11-$30
+ Sundancer Grill,4,359,Steakhouse,$11-$30
+ Satellite,3.5,362,Steakhouse,$11-$30
+ Cafe Blue,3.5,362,Steakhouse,$11-$30
+ Texas Roadhouse,3.5,363,Steakhouse,$11-$30
+ Beluga Japanese Restaurant,3.5,379,Steakhouse,$11-$30
+ House Wine,4.5,384,Steakhouse,$11-$30
+ House Wine,4.5,384,Steakhouse,$11-$30
+ Hurricane Grill & Wings,3.5,389,Steakhouse,$11-$30
+ Old Thousand,4,402,Steakhouse,$11-$30
+ The Driskill Bar,4,406,Steakhouse,$11-$30
+ Boteco,4.5,429,Steakhouse,$11-$30
+ BJ’s Restaurant & Brewhouse,3,433,Steakhouse,$11-$30
+ Pappadeaux Seafood Kitchen,3.5,438,Steakhouse,$11-$30
+ Colleen’s Kitchen,4,440,Steakhouse,$11-$30
+ FD’s Grillhouse,3.5,440,Steakhouse,$11-$30
+ Texican Cafe - Lakeline,3.5,444,Steakhouse,$11-$30
+ Eurasia Sushi Bar & Seafood,4.5,445,Steakhouse,$11-$30
+ Cherry Creek Catfish,4,447,Steakhouse,$11-$30
+ Texas Roadhouse,4,453,Steakhouse,$11-$30
+ KOBE Japanese Steakhouse,3.5,457,Steakhouse,$11-$30
+ Hyde Park Bar & Grill WestGate,3,461,Steakhouse,$11-$30
+ TRACE Restaurant,3.5,475,Steakhouse,$11-$30
+ Charm Korean BBQ,3.5,478,Steakhouse,$11-$30
+ Chuy’s,3.5,478,Steakhouse,$11-$30
+ Oasthouse Kitchen  Bar,4,482,Steakhouse,$11-$30
+ BJ’s Restaurant & Brewhouse,3,494,Steakhouse,$11-$30
+ The County Line,3.5,503,Steakhouse,$11-$30
+ The Park on South Lamar,3.5,504,Steakhouse,$11-$30
+ Ranch ,3.5,506,Steakhouse,$11-$30
+ Jack Allen’s Kitchen,4.5,520,Steakhouse,$11-$30
+ Cedro Scratch Italian & Wine Bar,4,521,Steakhouse,$11-$30
+ Juniper,4.5,541,Steakhouse,$11-$30
+ The Grove Wine Bar & Kitchen,4,547,Steakhouse,$11-$30
+ Salt & Time,3.5,553,Steakhouse,$11-$30
+ Deckhand Oyster Bar - South,3.5,559,Steakhouse,$11-$30
+ Dai Due,4,585,Steakhouse,$11-$30
+ Pappasito’s Cantina,3.5,590,Steakhouse,$11-$30
+ Crawfish Shack & Oyster Bar,3.5,600,Steakhouse,$11-$30
+ The Original Pancake House,3.5,627,Steakhouse,$11-$30
+ Doc B’s Restaurant  Bar,4.5,630,Steakhouse,$11-$30
+ Casa Chapala Mexican Cuisine & Tequila Bar,4,636,Steakhouse,$11-$30
+ Jacoby’s Restaurant & Mercantile,4,650,Steakhouse,$11-$30
+ Hyde Park Bar & Grill Central,3.5,659,Steakhouse,$11-$30
+ Tacodeli,4,699,Steakhouse,$11-$30
+ Yard House,4,701,Steakhouse,$11-$30
+ Buenos Aires Café - Este,4,707,Steakhouse,$11-$30
+ French Quarter Grille,4.5,716,Steakhouse,$11-$30
+ The Cheesecake Factory - Austin,3,726,Steakhouse,$11-$30
+ Kerbey Lane Cafe - Southwest,3.5,729,Steakhouse,$11-$30
+ BarChi Sushi,3.5,746,Steakhouse,$11-$30
+ Freda’s Seafood Grille,4,761,Steakhouse,$11-$30
+ Z’Tejas - Austin  STREET,3.5,794,Steakhouse,$11-$30
+ Maggiano’s Little Italy,3.5,811,Steakhouse,$11-$30
+ Umi Sushi Bar & Grill,4,826,Steakhouse,$11-$30
+ County Line On The Lake,3.5,832,Steakhouse,$11-$30
+ Stella San Jac,4,840,Steakhouse,$11-$30
+ Chuy’s,4,855,Steakhouse,$11-$30
+ Foxhole Culinary Tavern,4,866,Steakhouse,$11-$30
+ Korea House,3.5,879,Steakhouse,$11-$30
+ Hoover’s Cooking,3.5,945,Steakhouse,$11-$30
+ Micklethwait Craft Meats,4.5,984,Steakhouse,$11-$30
+ Parkside,4,1009,Steakhouse,$11-$30
+ True Food Kitchen,4.5,1015,Steakhouse,$11-$30
+ Trudy’s North Star,3.5,1016,Steakhouse,$11-$30
+ Lucy’s Fried Chicken,3.5,1046,Steakhouse,$11-$30
+ Kerbey Lane Cafe - Northwest,3,1127,Steakhouse,$11-$30
+ Rudy’s “Country Store” and Bar-B-Q,4.5,1129,Steakhouse,$11-$30
+ Roaring Fork,4,1146,Steakhouse,$11-$30
+ Launderette,4,1185,Steakhouse,$11-$30
+ Roaring Fork,4,1222,Steakhouse,$11-$30
+ Péché,4,1229,Steakhouse,$11-$30
+ Kerbey Lane Cafe - Central,4,1347,Steakhouse,$11-$30
+ Stubb’s Bar-B-Q,3.5,1395,Steakhouse,$11-$30
+ North Italia,4,1403,Steakhouse,$11-$30
+ La Condesa,3.5,1445,Steakhouse,$11-$30
+ Loro,4,1456,Steakhouse,$11-$30
+ Elizabeth Street Cafe,3.5,1502,Steakhouse,$11-$30
+ Gourdough’s Public House,4,1654,Steakhouse,$11-$30
+ Stiles Switch BBQ & Brew,4,1757,Steakhouse,$11-$30
+ Jack Allen’s Kitchen,4.5,1759,Steakhouse,$11-$30
+ Hopdoddy Burger Bar,4,1839,Steakhouse,$11-$30
+ Lamberts Downtown Barbecue,4,1844,Steakhouse,$11-$30
+ Bangers Sausage House & Beer Garden,4,2524,Steakhouse,$11-$30
+ la Barbecue,4.5,2621,Steakhouse,$11-$30
+ Salty Sow,4.5,2888,Steakhouse,$11-$30
+ The OASIS on Lake Travis,2.5,2888,Steakhouse,$11-$30
+ Terry Black’s Barbecue,4.5,4415,Steakhouse,$11-$30
+ Hopdoddy Burger Bar,4,4857,Steakhouse,$11-$30
+ Moonshine Patio Bar & Grill,4.5,5150,Steakhouse,$11-$30
+ Franklin Barbecue,4.5,5256,Steakhouse,$11-$30
+ Living Room Lounge - W Hotel Austin,4,103,Steakhouse,$31-$60
+ Hudson’s Hill Country,4,119,Steakhouse,$31-$60
+ Rosewood,4.5,217,Steakhouse,$31-$60
+ CARVE American Grille,4,277,Steakhouse,$31-$60
+ The Carillon,4.5,293,Steakhouse,$31-$60
+ Perry’s Steakhouse & Grille - Northside,3.5,300,Steakhouse,$31-$60
+ Arlo Grey by Kristen Kish,4,320,Steakhouse,$31-$60
+ The Capital Grille,4,362,Steakhouse,$31-$60
+ Fleming’s Prime Steakhouse & Wine Bar,4,371,Steakhouse,$31-$60
+ W Austin,3.5,371,Steakhouse,$31-$60
+ Gino’s Vino Osteria,4.5,381,Steakhouse,$31-$60
+ Bob’s Steak & Chop House,4,426,Steakhouse,$31-$60
+ Olamaie,4,455,Steakhouse,$31-$60
+ Fairmont Austin,4,465,Steakhouse,$31-$60
+ Lenoir,4,503,Steakhouse,$31-$60
+ Fleming’s Prime Steakhouse & Wine Bar,4,506,Steakhouse,$31-$60
+ Eddie V’s Prime Seafood,4.5,527,Steakhouse,$31-$60
+ JW Marriott Austin,4,529,Steakhouse,$31-$60
+ Eberly,4,549,Steakhouse,$31-$60
+ Paul Martin’s American Grill,4,565,Steakhouse,$31-$60
+ Vince Young Steakhouse,4,571,Steakhouse,$31-$60
+ The Roosevelt Room,4.5,581,Steakhouse,$31-$60
+ ALC Steaks,4,611,Steakhouse,$31-$60
+ Truluck’s Ocean’s Finest Seafood & Crab,4.5,616,Steakhouse,$31-$60
+ Clark’s Oyster Bar,4,665,Steakhouse,$31-$60
+ Emmer & Rye,4,725,Steakhouse,$31-$60
+ Estância Brazilian Steakhouse,4,789,Steakhouse,$31-$60
+ Wink,4,795,Steakhouse,$31-$60
+ Fixe Austin’s Southern House,4,798,Steakhouse,$31-$60
+ Bartlett’s,4,823,Steakhouse,$31-$60
+ Pappadeaux Seafood Kitchen,4,832,Steakhouse,$31-$60
+ Fogo De Chão,4,904,Steakhouse,$31-$60
+ Red Ash,4.5,916,Steakhouse,$31-$60
+ Truluck’s Ocean’s Finest Seafood & Crab,4.5,921,Steakhouse,$31-$60
+ Steiner Ranch Steakhouse,3.5,937,Steakhouse,$31-$60
+ Barley Swine,4.5,1134,Steakhouse,$31-$60
+ Justine’s Brasserie,4,1163,Steakhouse,$31-$60
+ Eddie V’s Prime Seafood,4.5,1223,Steakhouse,$31-$60
+ Perry’s Steakhouse & Grille - Downtown Austin,4,1250,Steakhouse,$31-$60
+ Perla’s,4,1697,Steakhouse,$31-$60
+ Odd Duck,4.5,1900,Steakhouse,$31-$60
+ Steakhouse Supply,1.5,4,Steakhouse,over $61
+ J Carver’s,4,65,Steakhouse,over $61
+ Simi Estiatorio,3.5,66,Steakhouse,over $61
+ Otoko,4.5,111,Steakhouse,over $61
+ The Driskill Grill,3.5,220,Steakhouse,over $61
+ Ruth’s Chris Steak House,3.5,393,Steakhouse,over $61
+ Jeffrey’s,4,418,Steakhouse,over $61
+ III Forks,4,517,Steakhouse,over $61
