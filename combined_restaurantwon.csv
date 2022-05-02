@@ -1,0 +1,631 @@
+Rating,Review,Cuisine,price
+4.5,19,American,under $10
+3.5,19,American,under $10
+2,19,American,under $10
+3.5,20,American,under $10
+1.5,21,American,under $10
+2,22,American,under $10
+2.5,23,American,under $10
+2,24,American,under $10
+4.5,24,American,under $10
+3,24,American,under $10
+3.5,25,American,under $10
+3.5,25,American,under $10
+3,25,American,under $10
+4.5,26,American,under $10
+2,27,American,under $10
+4,28,American,under $10
+2.5,28,American,under $10
+2,28,American,under $10
+3.5,29,American,under $10
+3.5,31,American,under $10
+2,31,American,under $10
+1.5,31,American,under $10
+4,32,American,under $10
+1.5,32,American,under $10
+3,32,American,under $10
+4.5,33,American,under $10
+2.5,33,American,under $10
+2,33,American,under $10
+2.5,34,American,under $10
+1.5,34,American,under $10
+2.5,34,American,under $10
+3.5,36,American,under $10
+3.5,36,American,under $10
+2.5,37,American,under $10
+3.5,38,American,under $10
+3.5,38,American,under $10
+2,38,American,under $10
+1.5,39,American,under $10
+3.5,40,American,under $10
+3,42,American,under $10
+3.5,42,American,under $10
+3,43,American,under $10
+3.5,43,American,under $10
+2,43,American,under $10
+2,44,American,under $10
+2,44,American,under $10
+3.5,45,American,under $10
+2,49,American,under $10
+4,795,American,$31-$60
+4,798,American,$31-$60
+4,823,American,$31-$60
+4,904,American,$31-$60
+4.5,921,American,$31-$60
+3.5,937,American,$31-$60
+4,966,American,$31-$60
+4,1087,American,$31-$60
+4.5,1134,American,$31-$60
+4,1163,American,$31-$60
+4.5,1223,American,$31-$60
+4,1250,American,$31-$60
+4,1697,American,$31-$60
+4.5,1900,American,$31-$60
+3,15,American,over $61
+4,65,American,over $61
+3.5,66,American,over $61
+3.5,220,American,over $61
+4,418,American,over $61
+4,517,American,over $61
+3.5,2,Asian,under $10
+3,12,Asian,under $10
+3.5,154,Asian,under $10
+4.5,155,Asian,under $10
+4.5,156,Asian,under $10
+4,156,Asian,under $10
+3.5,158,Asian,under $10
+3.5,158,Asian,under $10
+4,161,Asian,under $10
+4.5,164,Asian,under $10
+2.5,166,Asian,under $10
+3.5,167,Asian,under $10
+3.5,169,Asian,under $10
+4,169,Asian,under $10
+3.5,178,Asian,under $10
+4,179,Asian,under $10
+4,179,Asian,under $10
+5,182,Asian,under $10
+4,182,Asian,under $10
+4,183,Asian,under $10
+4,189,Asian,under $10
+4,192,Asian,under $10
+4,192,Asian,under $10
+4.5,193,Asian,under $10
+4,193,Asian,under $10
+3,195,Asian,under $10
+3.5,197,Asian,under $10
+3,203,Asian,under $10
+3,203,Asian,under $10
+3.5,208,Asian,under $10
+3.5,216,Asian,under $10
+3.5,217,Asian,under $10
+4,220,Asian,under $10
+4,220,Asian,under $10
+4,220,Asian,under $10
+4.5,221,Asian,under $10
+4,222,Asian,under $10
+3.5,223,Asian,under $10
+3,226,Asian,under $10
+3.5,233,Asian,under $10
+3.5,234,Asian,under $10
+4,236,Asian,under $10
+4,237,Asian,under $10
+4,239,Asian,under $10
+2,247,Asian,under $10
+3,248,Asian,under $10
+4,253,Asian,under $10
+4.5,253,Asian,under $10
+4.5,253,Asian,under $10
+4,254,Asian,under $10
+3.5,256,Asian,under $10
+3.5,269,Asian,under $10
+4,270,Asian,under $10
+3.5,271,Asian,under $10
+4,275,Asian,under $10
+4,278,Asian,under $10
+4,278,Asian,under $10
+4,828,Asian,under $10
+4,984,Asian,under $10
+4,1002,Asian,under $10
+4.5,80,Asian,$11-$30
+4.5,80,Asian,$11-$30
+4.5,81,Asian,$11-$30
+4,83,Asian,$11-$30
+4,83,Asian,$11-$30
+4.5,87,Asian,$11-$30
+4.5,87,Asian,$11-$30
+4.5,88,Asian,$11-$30
+4,89,Asian,$11-$30
+4,89,Asian,$11-$30
+3.5,89,Asian,$11-$30
+4,89,Asian,$11-$30
+4,91,Asian,$11-$30
+4.5,104,Asian,$11-$30
+4,109,Asian,$11-$30
+4,109,Asian,$11-$30
+4,543,Asian,$11-$30
+4,543,Asian,$11-$30
+3,544,Asian,$11-$30
+3.5,545,Asian,$11-$30
+4,548,Asian,$11-$30
+4,563,Asian,$11-$30
+3,579,Asian,$11-$30
+4,612,Asian,$11-$30
+4.5,630,Asian,$11-$30
+4,672,Asian,$11-$30
+4,675,Asian,$11-$30
+4,676,Asian,$11-$30
+4,692,Asian,$11-$30
+3.5,692,Asian,$11-$30
+4,708,Asian,$11-$30
+4.5,729,Asian,$11-$30
+3.5,746,Asian,$11-$30
+3.5,746,Asian,$11-$30
+4,758,Asian,$11-$30
+4,761,Asian,$11-$30
+4,774,Asian,$11-$30
+4,777,Asian,$11-$30
+4,778,Asian,$11-$30
+4,780,Asian,$11-$30
+4.5,781,Asian,$11-$30
+3.5,782,Asian,$11-$30
+4.5,1783,Asian,$11-$30
+3.5,1803,Asian,$11-$30
+4,1821,Asian,$11-$30
+4,1844,Asian,$11-$30
+4,1862,Asian,$11-$30
+4,2701,Asian,$11-$30
+4.5,2718,Asian,$11-$30
+4.5,2718,Asian,$11-$30
+4.5,381,Asian,$31-$60
+4,401,Asian,$31-$60
+4,426,Asian,$31-$60
+4,426,Asian,$31-$60
+4,431,Asian,$31-$60
+4,431,Asian,$31-$60
+4,455,Asian,$31-$60
+4,459,Asian,$31-$60
+4,459,Asian,$31-$60
+4.5,498,Asian,$31-$60
+4.5,498,Asian,$31-$60
+4,503,Asian,$31-$60
+4,506,Asian,$31-$60
+4,506,Asian,$31-$60
+4.5,527,Asian,$31-$60
+4.5,527,Asian,$31-$60
+4,549,Asian,$31-$60
+4,565,Asian,$31-$60
+4,565,Asian,$31-$60
+4,568,Asian,$31-$60
+4,611,Asian,$31-$60
+4.5,616,Asian,$31-$60
+4,665,Asian,$31-$60
+4,725,Asian,$31-$60
+4.5,891,Asian,$31-$60
+4.5,916,Asian,$31-$60
+4.5,921,Asian,$31-$60
+4,966,Asian,$31-$60
+4,1087,Asian,$31-$60
+4.5,1134,Asian,$31-$60
+4,1163,Asian,$31-$60
+4.5,1223,Asian,$31-$60
+4,1697,Asian,$31-$60
+4.5,1900,Asian,$31-$60
+4,65,Asian,over $61
+4.5,111,Asian,over $61
+4,290,Asian,over $61
+3.5,393,Asian,over $61
+4,517,Asian,over $61
+4.5,1910,Asian,over $61
+4.5,2610,Asian,over $61
+3.5,40,Indian,under $10
+3.5,40,Indian,under $10
+3.5,45,Indian,under $10
+4.5,52,Indian,under $10
+4.5,61,Indian,under $10
+4,66,Indian,under $10
+4,83,Indian,under $10
+4.5,91,Indian,under $10
+4,92,Indian,under $10
+4,119,Indian,under $10
+4,1002,Indian,under $10
+5,67,Indian,$11-$30
+4,69,Indian,$11-$30
+3.5,74,Indian,$11-$30
+3,96,Indian,$11-$30
+4,103,Indian,$11-$30
+4.5,135,Indian,$11-$30
+4.5,140,Indian,$11-$30
+4.5,154,Indian,$11-$30
+3.5,163,Indian,$11-$30
+4.5,169,Indian,$11-$30
+4,172,Indian,$11-$30
+3.5,191,Indian,$11-$30
+3,194,Indian,$11-$30
+4.5,207,Indian,$11-$30
+4,218,Indian,$11-$30
+4,221,Indian,$11-$30
+3,223,Indian,$11-$30
+3.5,232,Indian,$11-$30
+4.5,237,Indian,$11-$30
+4.5,240,Indian,$11-$30
+4,272,Indian,$11-$30
+3,275,Indian,$11-$30
+4,278,Indian,$11-$30
+4,632,Indian,$11-$30
+4.5,637,Indian,$11-$30
+4,758,Indian,$11-$30
+4.5,809,Indian,$11-$30
+4.5,854,Indian,$11-$30
+4.5,1015,Indian,$11-$30
+4,1727,Indian,$11-$30
+4.5,1783,Indian,$11-$30
+4.5,2440,Indian,$11-$30
+3,91,Italian,under $10
+4.5,97,Italian,under $10
+4.5,487,Italian,under $10
+3,494,Italian,under $10
+4,495,Italian,under $10
+4,495,Italian,under $10
+3.5,506,Italian,under $10
+4,507,Italian,under $10
+4,511,Italian,under $10
+4,520,Italian,under $10
+4,521,Italian,under $10
+3.5,531,Italian,under $10
+3.5,537,Italian,under $10
+3,538,Italian,under $10
+4.5,541,Italian,under $10
+4,541,Italian,under $10
+4,547,Italian,under $10
+4,555,Italian,under $10
+4,557,Italian,under $10
+3.5,557,Italian,under $10
+4.5,560,Italian,under $10
+4.5,560,Italian,under $10
+4,564,Italian,under $10
+3.5,583,Italian,under $10
+3.5,583,Italian,under $10
+4,593,Italian,under $10
+4,604,Italian,under $10
+4.5,607,Italian,under $10
+4,622,Italian,under $10
+4,625,Italian,under $10
+4,635,Italian,under $10
+4.5,637,Italian,under $10
+4,646,Italian,under $10
+4,646,Italian,under $10
+3.5,659,Italian,under $10
+4,664,Italian,under $10
+4.5,669,Italian,under $10
+4.5,675,Italian,under $10
+4,678,Italian,under $10
+4,690,Italian,under $10
+4,701,Italian,under $10
+4,707,Italian,under $10
+4,715,Italian,under $10
+4.5,716,Italian,under $10
+4.5,720,Italian,under $10
+4,724,Italian,under $10
+3,726,Italian,under $10
+4,742,Italian,under $10
+4,754,Italian,under $10
+4,758,Italian,under $10
+4,759,Italian,under $10
+4,763,Italian,under $10
+4,770,Italian,under $10
+4.5,775,Italian,under $10
+4,778,Italian,under $10
+3.5,782,Italian,under $10
+4.5,790,Italian,under $10
+3.5,794,Italian,under $10
+4,806,Italian,under $10
+4,807,Italian,under $10
+3.5,811,Italian,under $10
+4.5,820,Italian,under $10
+4.5,838,Italian,under $10
+4,855,Italian,under $10
+3.5,855,Italian,under $10
+3.5,868,Italian,under $10
+3.5,887,Italian,under $10
+4,889,Italian,under $10
+4,889,Italian,under $10
+4.5,913,Italian,under $10
+3.5,953,Italian,under $10
+3.5,980,Italian,under $10
+3.5,1003,Italian,under $10
+4,1009,Italian,under $10
+4,1011,Italian,under $10
+4.5,1063,Italian,under $10
+4.5,1106,Italian,under $10
+4,1119,Italian,under $10
+4,1185,Italian,under $10
+4,1229,Italian,under $10
+4,1258,Italian,under $10
+3.5,1284,Italian,under $10
+4,1403,Italian,under $10
+4,1486,Italian,under $10
+4,1654,Italian,under $10
+4,1654,Italian,under $10
+4,1839,Italian,under $10
+4,1844,Italian,under $10
+4,1844,Italian,under $10
+4,2524,Italian,under $10
+4.5,5150,Italian,under $10
+4.5,5150,Italian,under $10
+3,91,Italian,$11-$30
+4.5,97,Italian,$11-$30
+3.5,97,Italian,$11-$30
+4.5,98,Italian,$11-$30
+3.5,99,Italian,$11-$30
+2.5,100,Italian,$11-$30
+3.5,100,Italian,$11-$30
+4,101,Italian,$11-$30
+4.5,102,Italian,$11-$30
+5,108,Italian,$11-$30
+4,109,Italian,$11-$30
+2.5,109,Italian,$11-$30
+4,110,Italian,$11-$30
+3.5,112,Italian,$11-$30
+3,114,Italian,$11-$30
+3,114,Italian,$11-$30
+3.5,115,Italian,$11-$30
+4.5,116,Italian,$11-$30
+4,121,Italian,$11-$30
+4,127,Italian,$11-$30
+4.5,127,Italian,$11-$30
+3,129,Italian,$11-$30
+3.5,131,Italian,$11-$30
+3.5,131,Italian,$11-$30
+4.5,133,Italian,$11-$30
+4.5,133,Italian,$11-$30
+5,135,Italian,$11-$30
+3,135,Italian,$11-$30
+3,135,Italian,$11-$30
+3,138,Italian,$11-$30
+4.5,140,Italian,$11-$30
+4,148,Italian,$11-$30
+4,148,Italian,$11-$30
+4,150,Italian,$11-$30
+5,152,Italian,$11-$30
+4,152,Italian,$11-$30
+4,152,Italian,$11-$30
+2.5,153,Italian,$11-$30
+2.5,154,Italian,$11-$30
+4,155,Italian,$11-$30
+3.5,156,Italian,$11-$30
+4,157,Italian,$11-$30
+3.5,158,Italian,$11-$30
+3,166,Italian,$11-$30
+3,170,Italian,$11-$30
+4.5,173,Italian,$11-$30
+4.5,180,Italian,$11-$30
+3.5,181,Italian,$11-$30
+4.5,182,Italian,$11-$30
+4.5,183,Italian,$11-$30
+5,184,Italian,$11-$30
+4.5,186,Italian,$11-$30
+4,193,Italian,$11-$30
+2.5,196,Italian,$11-$30
+3.5,201,Italian,$11-$30
+4.5,204,Italian,$11-$30
+3.5,207,Italian,$11-$30
+3.5,207,Italian,$11-$30
+4.5,211,Italian,$11-$30
+4.5,211,Italian,$11-$30
+3.5,216,Italian,$11-$30
+4.5,217,Italian,$11-$30
+4.5,220,Italian,$11-$30
+3.5,221,Italian,$11-$30
+2.5,223,Italian,$11-$30
+3,224,Italian,$11-$30
+3.5,225,Italian,$11-$30
+4,226,Italian,$11-$30
+3.5,227,Italian,$11-$30
+3,227,Italian,$11-$30
+3.5,233,Italian,$11-$30
+3.5,583,Italian,$11-$30
+3.5,583,Italian,$11-$30
+4,593,Italian,$11-$30
+4,604,Italian,$11-$30
+4.5,607,Italian,$11-$30
+3.5,104,Italian,$31-$60
+4.5,118,Italian,$31-$60
+3.5,134,Italian,$31-$60
+4,194,Italian,$31-$60
+4.5,217,Italian,$31-$60
+3.5,300,Italian,$31-$60
+4,320,Italian,$31-$60
+4,344,Italian,$31-$60
+4,362,Italian,$31-$60
+4,371,Italian,$31-$60
+4.5,381,Italian,$31-$60
+4,401,Italian,$31-$60
+4,431,Italian,$31-$60
+4,454,Italian,$31-$60
+4,455,Italian,$31-$60
+4.5,498,Italian,$31-$60
+4,503,Italian,$31-$60
+4.5,527,Italian,$31-$60
+4,549,Italian,$31-$60
+4.5,581,Italian,$31-$60
+4,606,Italian,$31-$60
+4,611,Italian,$31-$60
+4.5,616,Italian,$31-$60
+4,643,Italian,$31-$60
+4,665,Italian,$31-$60
+4,728,Italian,$31-$60
+4,795,Italian,$31-$60
+4,798,Italian,$31-$60
+4,823,Italian,$31-$60
+4,832,Italian,$31-$60
+4.5,916,Italian,$31-$60
+4.5,921,Italian,$31-$60
+4,966,Italian,$31-$60
+4.5,1134,Italian,$31-$60
+4,1163,Italian,$31-$60
+4.5,1223,Italian,$31-$60
+4,1250,Italian,$31-$60
+4,1697,Italian,$31-$60
+4.5,1900,Italian,$31-$60
+4.5,43,Italian,over $61
+4,65,Italian,over $61
+3.5,393,Italian,over $61
+4,17,Mexican,under $10
+4.5,18,Mexican,under $10
+5,18,Mexican,under $10
+3.5,19,Mexican,under $10
+5,19,Mexican,under $10
+5,19,Mexican,under $10
+5,21,Mexican,under $10
+5,21,Mexican,under $10
+4,21,Mexican,under $10
+4.5,22,Mexican,under $10
+4,155,Mexican,under $10
+4,156,Mexican,under $10
+3.5,157,Mexican,under $10
+4,160,Mexican,under $10
+1.5,164,Mexican,under $10
+3.5,166,Mexican,under $10
+3.5,167,Mexican,under $10
+4.5,168,Mexican,under $10
+4,174,Mexican,under $10
+3.5,174,Mexican,under $10
+4,175,Mexican,under $10
+4,179,Mexican,under $10
+3,181,Mexican,under $10
+4.5,183,Mexican,under $10
+3.5,188,Mexican,under $10
+4.5,189,Mexican,under $10
+4.5,192,Mexican,under $10
+4,193,Mexican,under $10
+3.5,196,Mexican,under $10
+4,197,Mexican,under $10
+4,197,Mexican,under $10
+3.5,202,Mexican,under $10
+4.5,207,Mexican,under $10
+3,207,Mexican,under $10
+4.5,208,Mexican,under $10
+3.5,209,Mexican,under $10
+4,211,Mexican,under $10
+3.5,220,Mexican,under $10
+3.5,234,Mexican,under $10
+3.5,237,Mexican,under $10
+3,237,Mexican,under $10
+4,239,Mexican,under $10
+4,247,Mexican,under $10
+4.5,252,Mexican,under $10
+4,253,Mexican,under $10
+4.5,257,Mexican,under $10
+4,261,Mexican,under $10
+3.5,261,Mexican,under $10
+4.5,262,Mexican,under $10
+4,264,Mexican,under $10
+3.5,265,Mexican,under $10
+4.5,271,Mexican,under $10
+4,283,Mexican,under $10
+4,652,Mexican,under $10
+4,682,Mexican,under $10
+4.5,857,Mexican,under $10
+4,889,Mexican,under $10
+4,895,Mexican,under $10
+4,913,Mexican,under $10
+4,918,Mexican,under $10
+4.5,952,Mexican,under $10
+4,1018,Mexican,under $10
+4.5,1073,Mexican,under $10
+4,2,Mexican,$11-$30
+4,4,Mexican,$11-$30
+5,8,Mexican,$11-$30
+2.5,8,Mexican,$11-$30
+3.5,11,Mexican,$11-$30
+4,13,Mexican,$11-$30
+4.5,13,Mexican,$11-$30
+3,13,Mexican,$11-$30
+4.5,18,Mexican,$11-$30
+3.5,20,Mexican,$11-$30
+3.5,22,Mexican,$11-$30
+3.5,22,Mexican,$11-$30
+3,22,Mexican,$11-$30
+4.5,35,Mexican,$11-$30
+4.5,36,Mexican,$11-$30
+4.5,42,Mexican,$11-$30
+2.5,44,Mexican,$11-$30
+4.5,46,Mexican,$11-$30
+2.5,46,Mexican,$11-$30
+3,48,Mexican,$11-$30
+4,55,Mexican,$11-$30
+2,55,Mexican,$11-$30
+4.5,58,Mexican,$11-$30
+2.5,61,Mexican,$11-$30
+2.5,63,Mexican,$11-$30
+3.5,79,Mexican,$11-$30
+3.5,82,Mexican,$11-$30
+5,84,Mexican,$11-$30
+4.5,87,Mexican,$11-$30
+2,89,Mexican,$11-$30
+4.5,91,Mexican,$11-$30
+5,109,Mexican,$11-$30
+3.5,120,Mexican,$11-$30
+3.5,1205,Mexican,$11-$30
+3.5,1445,Mexican,$11-$30
+3.5,1479,Mexican,$11-$30
+3.5,1509,Mexican,$11-$30
+3,1751,Mexican,$11-$30
+3.5,1803,Mexican,$11-$30
+4,2021,Mexican,$11-$30
+4.5,5256,Mexican,$11-$30
+4,78,Mexican,$31-$60
+4,311,Mexican,$31-$60
+4,478,Mexican,$31-$60
+4.5,683,Mexican,$31-$60
+4,966,Mexican,$31-$60
+3,3,Steakhouse,$11-$30
+3.5,33,Steakhouse,$11-$30
+4,40,Steakhouse,$11-$30
+3.5,56,Steakhouse,$11-$30
+4,62,Steakhouse,$11-$30
+3,67,Steakhouse,$11-$30
+4.5,72,Steakhouse,$11-$30
+3,74,Steakhouse,$11-$30
+3,78,Steakhouse,$11-$30
+3.5,78,Steakhouse,$11-$30
+4,83,Steakhouse,$11-$30
+3,85,Steakhouse,$11-$30
+3,95,Steakhouse,$11-$30
+3.5,96,Steakhouse,$11-$30
+3.5,103,Steakhouse,$11-$30
+4,109,Steakhouse,$11-$30
+4,109,Steakhouse,$11-$30
+3,110,Steakhouse,$11-$30
+3.5,118,Steakhouse,$11-$30
+3.5,144,Steakhouse,$11-$30
+3.5,147,Steakhouse,$11-$30
+2.5,147,Steakhouse,$11-$30
+3,151,Steakhouse,$11-$30
+3,156,Steakhouse,$11-$30
+3.5,158,Steakhouse,$11-$30
+3.5,164,Steakhouse,$11-$30
+4,789,Steakhouse,$31-$60
+4,795,Steakhouse,$31-$60
+4,798,Steakhouse,$31-$60
+4,823,Steakhouse,$31-$60
+4,832,Steakhouse,$31-$60
+4,904,Steakhouse,$31-$60
+4.5,916,Steakhouse,$31-$60
+4.5,921,Steakhouse,$31-$60
+3.5,937,Steakhouse,$31-$60
+4.5,1134,Steakhouse,$31-$60
+4,1163,Steakhouse,$31-$60
+4.5,1223,Steakhouse,$31-$60
+4,1250,Steakhouse,$31-$60
+4,1697,Steakhouse,$31-$60
+4.5,1900,Steakhouse,$31-$60
+1.5,4,Steakhouse,over $61
+4,65,Steakhouse,over $61
+3.5,66,Steakhouse,over $61
+4.5,111,Steakhouse,over $61
+3.5,220,Steakhouse,over $61
+3.5,393,Steakhouse,over $61
+4,418,Steakhouse,over $61
+4,517,Steakhouse,over $61
